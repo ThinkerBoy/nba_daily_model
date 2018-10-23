@@ -1,0 +1,31 @@
+bref_name,bbm_abr,conf,div,bref_abr,new_coach,Total,pre_srs,pre_g,weighted_g,hhi_wins
+Atlanta Hawks,ATL,E,SE,ATL,1,22.5,-3.59,5,5,-0.26
+Boston Celtics,BOS,E,A,BOS,0,58.5,-9.84,4,4,-0.37
+Brooklyn Nets,BKN,E,A,BRK,0,31.5,-1.29,4,4,-0.42
+Charlotte Hornets,CHA,E,SE,CHO,1,35.5,-0.47,5,5,0.30
+Chicago Bulls,CHI,E,C,CHI,0,29.5,-0.76,5,5,-0.57
+Cleveland Cavaliers,CLE,E,C,CLE,0,30.5,-8.22,4,4,-0.21
+Dallas Mavericks,DAL,W,SW,DAL,0,35.5,-2.23,3,3,-0.49
+Denver Nuggets,DEN,W,NW,DEN,0,47.5,8.56,4,4,0.40
+Detroit Pistons,DET,E,C,DET,1,38.5,0.88,5,5,-0.51
+Golden State Warriors,GSW,W,P,GSW,0,61.5,-12.27,5,5,0.14
+Houston Rockets,HOU,W,SW,HOU,0,56.5,8.36,4,4,0.57
+Indiana Pacers,IND,E,C,IND,0,47.5,0.43,4,4,0.06
+Los Angeles Clippers,LAC,W,P,LAC,0,37.5,15.32,3,3,-0.08
+Los Angeles Lakers,LAL,W,P,LAL,0,48.5,-3.64,6,6,0.60
+Memphis Grizzlies,MEM,W,SW,MEM,0,33.5,-5.63,5,5,0.21
+Miami Heat,MIA,E,SE,MIA,0,42.5,-1.44,6,6,-0.39
+Milwaukee Bucks,MIL,E,C,MIL,0,47.5,16.49,4,4,-0.02
+Minnesota Timberwolves,MIN,W,NW,MIN,0,43.5,-5.72,5,5,0.25
+New Orleans Pelicans,NOR,W,SW,NOP,0,45.5,-8.56,5,5,0.04
+New York Knicks,NYK,E,A,NYK,1,28.5,-1.79,5,5,-0.25
+Oklahoma City Thunder,OKC,W,NW,OKC,0,48.5,8.14,4,4,0.51
+Orlando Magic,ORL,E,SE,ORL,1,30.5,-4.5,4,4,-0.18
+Philadelphia 76ers,PHI,E,A,PHI,0,53.5,-6.23,3,3,0.06
+Phoenix Suns,PHO,W,P,PHO,1,28.5,-18.81,4,4,-0.16
+Portland Trail Blazers,POR,W,NW,POR,0,42.5,1.41,5,5,1.33
+Sacramento Kings,SAC,W,P,SAC,0,25.5,-14.79,5,5,-0.09
+San Antonio Spurs,SAS,W,SW,SAS,0,46.5,5.29,5,5,-0.14
+Toronto Raptors,TOR,E,A,TOR,1,55.5,17.05,4,4,-0.53
+Utah Jazz,UTA,W,NW,UTA,0,49.5,23.64,3,3,0.01
+Washington Wizards,WAS,E,SE,WAS,0,45.5,4.21,4,4,0.19

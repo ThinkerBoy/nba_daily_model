@@ -1,0 +1,734 @@
+bbm_id,bbm_name,spotrac,espn,bref,pipm,player_id,Draft,carmelo
+3640,Anthony Davis,Anthony Davis,Anthony Davis,Anthony Davis,Anthony Davis,/players/d/davisan02.html,2012 (Pick 1),Anthony Davis
+3001,James Harden,James Harden,James Harden,James Harden,James Harden,/players/h/hardeja01.html,2009 (Pick 3),James Harden
+5052,Karl-Anthony Towns,Karl-Anthony Towns,Karl-Anthony Towns,Karl-Anthony Towns,Karl-Anthony Towns,/players/t/townska01.html,2015 (Pick 1),Karl-Anthony Towns
+2718,Kevin Durant,Kevin Durant,Kevin Durant,Kevin Durant,Kevin Durant,/players/d/duranke01.html,2007 (Pick 2),Kevin Durant
+3377,Kawhi Leonard,Kawhi Leonard,Kawhi Leonard,Kawhi Leonard,Kawhi Leonard,/players/l/leonaka01.html,2011 (Pick 15),Kawhi Leonard
+2999,Stephen Curry,Stephen Curry,Stephen Curry,Stephen Curry,Stephen Curry,/players/c/curryst01.html,2009 (Pick 7),Stephen Curry
+3930,Nikola Jokic,Nikola Jokic,Nikola Jokic,Nikola Jokic,Nikola Jokic,/players/j/jokicni01.html,2015 (Pick 41),Nikola Jokic
+3701,Giannis Antetokounmpo,Giannis Antetokounmpo,Giannis Antetokounmpo,Giannis Antetokounmpo,Giannis Antetokounmpo,/players/a/antetgi01.html,2013 (Pick 15),Giannis Antetokounmpo
+3542,Damian Lillard,Damian Lillard,Damian Lillard,Damian Lillard,Damian Lillard,/players/l/lillada01.html,2012 (Pick 6),Damian Lillard
+3357,Jimmy Butler,Jimmy Butler,Jimmy Butler,Jimmy Butler,Jimmy Butler,/players/b/butleji01.html,2011 (Pick 30),Jimmy Butler
+2011,LeBron James,LeBron James,LeBron James,LeBron James,LeBron James,/players/j/jamesle01.html,2003 (Pick 1),LeBron James
+2464,Chris Paul,Chris Paul,Chris Paul,Chris Paul,Chris Paul,/players/p/paulch01.html,2005 (Pick 4),Chris Paul
+2848,Kevin Love,Kevin Love,Kevin Love,Kevin Love,Kevin Love,/players/l/loveke01.html,2008 (Pick 5),Kevin Love
+3111,Paul George,Paul George,Paul George,Paul George,Paul George,/players/g/georgpa01.html,2010 (Pick 10),Paul George
+2872,Russell Westbrook,Russell Westbrook,Russell Westbrook,Russell Westbrook,Russell Westbrook,/players/w/westbru01.html,2008 (Pick 4),Russell Westbrook
+3714,Victor Oladipo,Victor Oladipo,Victor Oladipo,Victor Oladipo,Victor Oladipo,/players/o/oladivi01.html,2013 (Pick 2),Victor Oladipo
+3916,Joel Embiid,Joel Embiid,Joel Embiid,Joel Embiid,Joel Embiid,/players/e/embiijo01.html,2016 (Pick 3),Joel Embiid
+3369,Kyrie Irving,Kyrie Irving,Kyrie Irving,Kyrie Irving,Kyrie Irving,/players/i/irvinky01.html,2011 (Pick 1),Kyrie Irving
+5271,Ben Simmons,Ben Simmons,Ben Simmons,Ben Simmons,Ben Simmons,/players/s/simmobe01.html,2017 (Pick 1),Ben Simmons
+3166,John Wall,John Wall,John Wall,John Wall,John Wall,/players/w/walljo01.html,2010 (Pick 1),John Wall
+3729,Rudy Gobert,Rudy Gobert,Rudy Gobert,Rudy Gobert,Rudy Gobert,/players/g/goberru01.html,2013 (Pick 27),Rudy Gobert
+3004,Jrue Holiday,Jrue Holiday,Jrue Holiday,Jrue Holiday,Jrue Holiday,/players/h/holidjr01.html,2009 (Pick 17),Jrue Holiday
+2615,Kyle Lowry,Kyle Lowry,Kyle Lowry,Kyle Lowry,Kyle Lowry,/players/l/lowryky01.html,2006 (Pick 24),Kyle Lowry
+3551,Khris Middleton,Khris Middleton,Khris Middleton,Khris Middleton,Khris Middleton,/players/m/middlkh01.html,2012 (Pick 39),Khris Middleton
+5002,Devin Booker,Devin Booker,Devin Booker,Devin Booker,Devin Booker,/players/b/bookede01.html,2015 (Pick 13),Devin Booker
+3114,Eric Bledsoe,Eric Bledsoe,Eric Bledsoe,Eric Bledsoe,Eric Bledsoe,/players/b/bledser01.html,2010 (Pick 18),Eric Bledsoe
+2572,LaMarcus Aldridge,LaMarcus Aldridge,LaMarcus Aldridge,LaMarcus Aldridge,LaMarcus Aldridge,/players/a/aldrila01.html,2006 (Pick 2),LaMarcus Aldridge
+3439,Bradley Beal,Bradley Beal,Bradley Beal,Bradley Beal,Bradley Beal,/players/b/bealbr01.html,2012 (Pick 3),Bradley Beal
+3405,Kemba Walker,Kemba Walker,Kemba Walker,Kemba Walker,Kemba Walker,/players/w/walkeke02.html,2011 (Pick 9),Kemba Walker
+5460,Donovan Mitchell,Donovan Mitchell,Donovan Mitchell,Donovan Mitchell,Donovan Mitchell,/players/m/mitchdo01.html,2017 (Pick 13),Donovan Mitchell
+2711,Mike Conley,Mike Conley,Mike Conley,Mike Conley,Mike Conley,/players/c/conlemi01.html,2007 (Pick 4),Mike Conley
+5043,Kristaps Porzingis,Kristaps Porzingis,Kristaps Porzingis,Kristaps Porzingis,Kristaps Porzingis,/players/p/porzikr01.html,2015 (Pick 4),Kristaps Porzingis
+3464,Andre Drummond,Andre Drummond,Andre Drummond,Andre Drummond,Andre Drummond,/players/d/drumman01.html,2012 (Pick 9),Andre Drummond
+3367,Tobias Harris,Tobias Harris,Tobias Harris,Tobias Harris,Tobias Harris,/players/h/harrito02.html,2011 (Pick 19),Tobias Harris
+3731,Otto Porter,Otto Porter Jr.,Otto Porter Jr.,Otto Porter,Otto Porter,/players/p/porteot01.html,2013 (Pick 3),Otto Porter Jr.
+5716,Deandre Ayton,Deandre Ayton,Deandre Ayton,Deandre Ayton,DeAndre Ayton,/players/a/aytonde01.html,2018 (Pick 1),Deandre Ayton
+3404,Nikola Vucevic,Nikola Vucevic,Nikola Vucevic,Nikola Vucevic,Nikola Vucevic,/players/v/vucevni01.html,2011 (Pick 16),Nikola Vucevic
+3487,Draymond Green,Draymond Green,Draymond Green,Draymond Green,Draymond Green,/players/g/greendr01.html,2012 (Pick 35),Draymond Green
+5046,Josh Richardson,Josh Richardson,Josh Richardson,Josh Richardson,Josh Richardson,/players/r/richajo01.html,2015 (Pick 40),Josh Richardson
+2722,Marc Gasol,Marc Gasol,Marc Gasol,Marc Gasol,Marc Gasol,/players/g/gasolma01.html,2007 (Pick 48),Marc Gasol
+3908,Clint Capela,Clint Capela,Clint Capela,Clint Capela,Clint Capela,/players/c/capelca01.html,2014 (Pick 25),Clint Capela
+5345,Jamal Murray,Jamal Murray,Jamal Murray,Jamal Murray,Jamal Murray,/players/m/murraja01.html,2016 (Pick 7),Jamal Murray
+3162,Gordon Hayward,Gordon Hayward,Gordon Hayward,Gordon Hayward,Gordon Hayward,/players/h/haywago01.html,2010 (Pick 9),Gordon Hayward
+3923,Gary Harris,Gary Harris,Gary Harris,Gary Harris,Gary Harris,/players/h/harriga01.html,2014 (Pick 19),Gary Harris
+5465,John Collins,John Collins,John Collins,John Collins,John Collins,/players/c/collijo01.html,2017 (Pick 19),John Collins
+3766,Robert Covington,Robert Covington,Robert Covington,Robert Covington,Robert Covington,/players/c/covinro01.html,,Robert Covington
+3153,DeMarcus Cousins,DeMarcus Cousins,DeMarcus Cousins,DeMarcus Cousins,DeMarcus Cousins,/players/c/couside01.html,2010 (Pick 5),DeMarcus Cousins
+3374,Enes Kanter,Enes Kanter,Enes Kanter,Enes Kanter,Enes Kanter,/players/k/kanteen01.html,2011 (Pick 3),Enes Kanter
+2824,Danilo Gallinari,Danilo Gallinari,Danilo Gallinari,Danilo Gallinari,Danilo Gallinari,/players/g/gallida01.html,2008 (Pick 6),Danilo Gallinari
+3021,Jeff Teague,Jeff Teague,Jeff Teague,Jeff Teague,Jeff Teague,/players/t/teaguje01.html,2009 (Pick 19),Jeff Teague
+5412,Taurean Prince,Taurean Prince,Taurean Prince,Taurean Waller-Prince,Taurean Waller-Prince,/players/p/princta02.html,2016 (Pick 12),Taurean Prince
+5053,Myles Turner,Myles Turner,Myles Turner,Myles Turner,Myles Turner,/players/t/turnemy01.html,2015 (Pick 11),Myles Turner
+5454,Lauri Markkanen,Lauri Markkanen,Lauri Markkanen,Lauri Markkanen,Lauri Markkanen,/players/m/markkla01.html,2017 (Pick 7),Lauri Markkanen
+5450,Jayson Tatum,Jayson Tatum,Jayson Tatum,Jayson Tatum,Jayson Tatum,/players/t/tatumja01.html,2017 (Pick 3),Jayson Tatum
+3409,Nikola Mirotic,Nikola Mirotic,Nikola Mirotic,Nikola Mirotic,Nikola Mirotic,/players/m/mirotni01.html,2011 (Pick 23),Nikola Mirotic
+3901,Kyle Anderson,Kyle Anderson,Kyle Anderson,Kyle Anderson,Kyle Anderson,/players/a/anderky01.html,2014 (Pick 30),Kyle Anderson
+5468,Jarrett Allen,Jarrett Allen,Jarrett Allen,Jarrett Allen,Jarrett Allen,/players/a/allenja01.html,2017 (Pick 22),Jarrett Allen
+2810,Nicolas Batum,Nicolas Batum,Nicolas Batum,Nicolas Batum,Nicolas Batum,/players/b/batumni01.html,2008 (Pick 25),Nicolas Batum
+3402,Jonas Valanciunas,Jonas Valanciunas,Jonas Valanciunas,Jonas Valanciunas,Jonas Valanciunas,/players/v/valanjo01.html,2011 (Pick 5),Jonas Valanciunas
+2730,Al Horford,Al Horford,Al Horford,Al Horford,Al Horford,/players/h/horfoal01.html,2007 (Pick 3),Al Horford
+5364,Buddy Hield,Buddy Hield,Buddy Hield,Buddy Hield,Buddy Hield,/players/h/hieldbu01.html,2016 (Pick 6),Buddy Hield
+5658,Luka Doncic,Luka Doncic,Luka Doncic,Luka Doncic,Luka Doncic,/players/d/doncilu01.html,2018 (Pick 3),Luka Doncic
+3046,Ricky Rubio,Ricky Rubio,Ricky Rubio,Ricky Rubio,Ricky Rubio,/players/r/rubiori01.html,2009 (Pick 5),Ricky Rubio
+3006,DeMar DeRozan,DeMar DeRozan,DeMar DeRozan,DeMar DeRozan,DeMar DeRozan,/players/d/derozde01.html,2009 (Pick 9),DeMar DeRozan
+3399,Klay Thompson,Klay Thompson,Klay Thompson,Klay Thompson,Klay Thompson,/players/t/thompkl01.html,2011 (Pick 11),Klay Thompson
+3723,C.J. McCollum,C.J. McCollum,CJ McCollum,C.J. McCollum,C.J. McCollum,/players/m/mccolcj01.html,2013 (Pick 10),CJ McCollum
+5036,Larry Nance Jr.,Larry Nance Jr.,Larry Nance Jr.,Larry Nance,Larry Nance,/players/n/nancela02.html,2015 (Pick 27),Larry Nance Jr.
+5342,Kris Dunn,Kris Dunn,Kris Dunn,Kris Dunn,Kris Dunn,/players/d/dunnkr01.html,2016 (Pick 5),Kris Dunn
+3154,Hassan Whiteside,Hassan Whiteside,Hassan Whiteside,Hassan Whiteside,Hassan Whiteside,/players/w/whiteha01.html,2010 (Pick 33),Hassan Whiteside
+2846,Brook Lopez,Brook Lopez,Brook Lopez,Brook Lopez,Brook Lopez,/players/l/lopezbr01.html,2008 (Pick 10),Brook Lopez
+3000,Tyreke Evans,Tyreke Evans,Tyreke Evans,Tyreke Evans,Tyreke Evans,/players/e/evansty01.html,2009 (Pick 4),Tyreke Evans
+3436,Will Barton,Will Barton,Will Barton,Will Barton,Will Barton,/players/b/bartowi01.html,2012 (Pick 40),Will Barton
+3537,Jeremy Lamb,Jeremy Lamb,Jeremy Lamb,Jeremy Lamb,Jeremy Lamb,/players/l/lambje01.html,2012 (Pick 12),Jeremy Lamb
+2997,Blake Griffin,Blake Griffin,Blake Griffin,Blake Griffin,Blake Griffin,/players/g/griffbl01.html,2009 (Pick 1),Blake Griffin
+2491,Lou Williams,Louis Williams,Lou Williams,Lou Williams,Lou Williams,/players/w/willilo02.html,2005 (Pick 45),Lou Williams
+5301,Dejounte Murray,Dejounte Murray,Dejounte Murray,Dejounte Murray,Dejounte Murray,/players/m/murrade01.html,2016 (Pick 29),Dejounte Murray
+3242,Joe Ingles,Joe Ingles,Joe Ingles,Joe Ingles,Joe Ingles,/players/i/inglejo01.html,2009,Joe Ingles
+5453,Jonathan Isaac,Jonathan Isaac,Jonathan Isaac,Jonathan Isaac,Jonathan Isaac,/players/i/isaacjo01.html,2017 (Pick 6),Jonathan Isaac
+3941,Jabari Parker,Jabari Parker,Jabari Parker,Jabari Parker,Jabari Parker,/players/p/parkeja01.html,2014 (Pick 2),Jabari Parker
+5449,Lonzo Ball,Lonzo Ball,Lonzo Ball,Lonzo Ball,Lonzo Ball,/players/b/balllo01.html,2017 (Pick 2),Lonzo Ball
+3939,Jusuf Nurkic,Jusuf Nurkic,Jusuf Nurkic,Jusuf Nurkic,Jusuf Nurkic,/players/n/nurkiju01.html,2014 (Pick 16),Jusuf Nurkic
+2841,DeAndre Jordan,DeAndre Jordan,DeAndre Jordan,DeAndre Jordan,DeAndre Jordan,/players/j/jordade01.html,2008 (Pick 35),DeAndre Jordan
+2600,Rudy Gay,Rudy Gay,Rudy Gay,Rudy Gay,Rudy Gay,/players/g/gayru01.html,2006 (Pick 8),Rudy Gay
+5698,Jaren Jackson,Jaren Jackson Jr.,Jaren Jackson Jr.,Jaren Jackson,Jaren Jackson,/players/j/jacksja02.html,2018 (Pick 4),Jaren Jackson Jr.
+3920,Aaron Gordon,Aaron Gordon,Aaron Gordon,Aaron Gordon,Aaron Gordon,/players/g/gordoaa01.html,2014 (Pick 4),Aaron Gordon
+5048,D'Angelo Russell,D'Angelo Russell,D'Angelo Russell,D'Angelo Russell,D'Angelo Russell,/players/r/russeda01.html,2015 (Pick 2),D'Angelo Russell
+3709,Tim Hardaway Jr.,Tim Hardaway Jr.,Tim Hardaway Jr.,Tim Hardaway,Tim Hardaway,/players/h/hardati02.html,2013 (Pick 24),Tim Hardaway Jr.
+3020,Darren Collison,Darren Collison,Darren Collison,Darren Collison,Darren Collison,/players/c/collida01.html,2009 (Pick 21),Darren Collison
+3948,Dario Saric,Dario Saric,Dario Saric,Dario Saric,Dario Saric,/players/s/saricda01.html,2016 (Pick 12),Dario Saric
+3774,Dewayne Dedmon,Dewayne Dedmon,Dewayne Dedmon,Dewayne Dedmon,Dewayne Dedmon,/players/d/dedmode01.html,,Dewayne Dedmon
+3475,Evan Fournier,Evan Fournier,Evan Fournier,Evan Fournier,Evan Fournier,/players/f/fournev01.html,2012 (Pick 20),Evan Fournier
+2621,Paul Millsap,Paul Millsap,Paul Millsap,Paul Millsap,Paul Millsap,/players/m/millspa01.html,2006 (Pick 47),Paul Millsap
+5020,Rondae Hollis-Jefferson,Rondae Hollis-Jefferson,Rondae Hollis-Jefferson,Rondae Hollis-Jefferson,Rondae Hollis-Jefferson,/players/h/holliro01.html,2015 (Pick 23),Rondae Hollis-Jefferson
+3932,Zach LaVine,Zach LaVine,Zach LaVine,Zach LaVine,Zach LaVine,/players/l/lavinza01.html,2014 (Pick 13),Zach LaVine
+2851,JaVale McGee,JaVale McGee,JaVale McGee,JaVale McGee,JaVale McGee,/players/m/mcgeeja01.html,2008 (Pick 18),JaVale McGee
+3032,Patrick Beverley,Patrick Beverley,Patrick Beverley,Patrick Beverley,Patrick Beverley,/players/b/beverpa01.html,2009 (Pick 42),Patrick Beverley
+5675,Wendell Carter,Wendell Carter Jr.,Wendell Carter Jr.,Wendell Carter,Wendell Carter,/players/c/cartewe01.html,2018 (Pick 7),Wendell Carter Jr.
+3722,Allen Crabbe,Allen Crabbe,Allen Crabbe,Allen Crabbe,Allen Crabbe,/players/c/crabbal01.html,2013 (Pick 31),Allen Crabbe
+2370,Trevor Ariza,Trevor Ariza,Trevor Ariza,Trevor Ariza,Trevor Ariza,/players/a/arizatr01.html,2004 (Pick 43),Trevor Ariza
+5014,Montrezl Harrell,Montrezl Harrell,Montrezl Harrell,Montrezl Harrell,Montrezl Harrell,/players/h/harremo01.html,2015 (Pick 32),Montrezl Harrell
+3946,Julius Randle,Julius Randle,Julius Randle,Julius Randle,Julius Randle,/players/r/randlju01.html,2014 (Pick 7),Julius Randle
+2631,J.J. Redick,J.J. Redick,JJ Redick,J.J. Redick,J.J. Redick,/players/r/redicjj01.html,2006 (Pick 11),JJ Redick
+3904,Bogdan Bogdanovic,Bogdan Bogdanovic,Bogdan Bogdanovic,Bogdan Bogdanovic,Bogdan Bogdanovic,/players/b/bogdabo01.html,2014 (Pick 27),Bogdan Bogdanovic
+3218,Jeremy Lin,Jeremy Lin,Jeremy Lin,Jeremy Lin,Jeremy Lin,/players/l/linje01.html,,Jeremy Lin
+5018,Mario Hezonja,Mario Hezonja,Mario Hezonja,Mario Hezonja,Mario Hezonja,/players/h/hezonma01.html,2015 (Pick 5),Mario Hezonja
+3015,Serge Ibaka,Serge Ibaka,Serge Ibaka,Serge Ibaka,Serge Ibaka,/players/i/ibakase01.html,2008 (Pick 24),Serge Ibaka
+5484,Jordan Bell,Jordan Bell,Jordan Bell,Jordan Bell,Jordan Bell,/players/b/belljo01.html,2017 (Pick 38),Jordan Bell
+5308,Malcolm Brogdon,Malcolm Brogdon,Malcolm Brogdon,Malcolm Brogdon,Malcolm Brogdon,/players/b/brogdma01.html,2016 (Pick 36),Malcolm Brogdon
+2836,George Hill,George Hill,George Hill,George Hill,George Hill,/players/h/hillge01.html,2008 (Pick 26),George Hill
+3132,Derrick Favors,Derrick Favors,Derrick Favors,Derrick Favors,Derrick Favors,/players/f/favorde01.html,2010 (Pick 3),Derrick Favors
+5425,Caris LeVert,Caris LeVert,Caris LeVert,Caris LeVert,Caris LeVert,/players/l/leverca01.html,2016 (Pick 20),Caris LeVert
+5360,Brandon Ingram,Brandon Ingram,Brandon Ingram,Brandon Ingram,Brandon Ingram,/players/i/ingrabr01.html,2016 (Pick 2),Brandon Ingram
+5004,Willie Cauley-Stein,Willie Cauley-Stein,Willie Cauley-Stein,Willie Cauley-Stein,Willie Cauley-Stein,/players/c/caulewi01.html,2015 (Pick 6),Willie Cauley-Stein
+3499,Moe Harkless,Maurice Harkless,Maurice Harkless,Maurice Harkless,Maurice Harkless,/players/h/harklma01.html,2012 (Pick 15),Maurice Harkless
+3113,Al-Farouq Aminu,Al-Farouq Aminu,Al-Farouq Aminu,Al-Farouq Aminu,Al-Farouq Aminu,/players/a/aminual01.html,2010 (Pick 8),Al-Farouq Aminu
+5354,Pascal Siakam,Pascal Siakam,Pascal Siakam,Pascal Siakam,Pascal Siakam,/players/s/siakapa01.html,2016 (Pick 27),Pascal Siakam
+3435,Harrison Barnes,Harrison Barnes,Harrison Barnes,Harrison Barnes,Harrison Barnes,/players/b/barneha02.html,2012 (Pick 7),Harrison Barnes
+3711,Steven Adams,Steven Adams,Steven Adams,Steven Adams,Steven Adams,/players/a/adamsst01.html,2013 (Pick 12),Steven Adams
+3677,Kelly Olynyk,Kelly Olynyk,Kelly Olynyk,Kelly Olynyk,Kelly Olynyk,/players/o/olynyke01.html,2013 (Pick 13),Kelly Olynyk
+5356,Fred VanVleet,Fred VanVleet,Fred VanVleet,Fred VanVleet,Fred VanVleet,/players/v/vanvlfr01.html,2016,Fred VanVleet
+2819,Goran Dragic,Goran Dragic,Goran Dragic,Goran Dragic,Goran Dragic,/players/d/dragigo01.html,2008 (Pick 45),Goran Dragic
+5038,Cedi Osman,Cedi Osman,Cedi Osman,Cedi Osman,Cedi Osman,/players/o/osmande01.html,2015 (Pick 31),Cedi Osman
+3011,Taj Gibson,Taj Gibson,Taj Gibson,Taj Gibson,Taj Gibson,/players/g/gibsota01.html,2009 (Pick 26),Taj Gibson
+3925,Rodney Hood,Rodney Hood,Rodney Hood,Rodney Hood,Rodney Hood,/players/h/hoodro01.html,2014 (Pick 23),Rodney Hood
+2769,Thaddeus Young,Thaddeus Young,Thaddeus Young,Thaddeus Young,Thaddeus Young,/players/y/youngth01.html,2007 (Pick 12),Thaddeus Young
+3957,Andrew Wiggins,Andrew Wiggins,Andrew Wiggins,Andrew Wiggins,Andrew Wiggins,/players/w/wiggian01.html,2014 (Pick 1),Andrew Wiggins
+5664,Trae Young,Trae Young,Trae Young,Trae Young,Trae Young,/players/y/youngtr01.html,2018 (Pick 5),Trae Young
+3944,Elfrid Payton,Elfrid Payton,Elfrid Payton,Elfrid Payton,Elfrid Payton,/players/p/paytoel01.html,2014 (Pick 10),Elfrid Payton
+2828,Eric Gordon,Eric Gordon,Eric Gordon,Eric Gordon,Eric Gordon,/players/g/gordoer01.html,2008 (Pick 7),Eric Gordon
+2293,Dwight Howard,Dwight Howard,Dwight Howard,Dwight Howard,Dwight Howard,/players/h/howardw01.html,2004 (Pick 1),Dwight Howard
+5448,Markelle Fultz,Markelle Fultz,Markelle Fultz,Markelle Fultz,Markelle Fultz,/players/f/fultzma01.html,2017 (Pick 1),Markelle Fultz
+5706,Mitchell Robinson,Mitchell Robinson,Mitchell Robinson,Mitchell Robinson,Mitchell Robinson,/players/r/robinmi01.html,2018 (Pick 36),Mitchell Robinson
+3914,Spencer Dinwiddie,Spencer Dinwiddie,Spencer Dinwiddie,Spencer Dinwiddie,Spencer Dinwiddie,/players/d/dinwisp01.html,2014 (Pick 38),Spencer Dinwiddie
+2809,D.J. Augustin,D.J. Augustin,D.J. Augustin,D.J. Augustin,D.J. Augustin,/players/a/augusdj01.html,2008 (Pick 9),D.J. Augustin
+3029,James Johnson,James Johnson,James Johnson,James Johnson,James Johnson,/players/j/johnsja01.html,2009 (Pick 16),James Johnson
+3678,Cody Zeller,Cody Zeller,Cody Zeller,Cody Zeller,Cody Zeller,/players/z/zelleco01.html,2013 (Pick 4),Cody Zeller
+5459,Luke Kennard,Luke Kennard,Luke Kennard,Luke Kennard,Luke Kennard,/players/k/kennalu01.html,2017 (Pick 12),Luke Kennard
+3728,Trey Burke,Trey Burke,Trey Burke,Trey Burke,Trey Burke,/players/b/burketr01.html,2013 (Pick 9),Trey Burke
+3689,Kentavious Caldwell-Pope,Kentavious Caldwell-Pope,Kentavious Caldwell-Pope,Kentavious Caldwell-Pope,Kentavious Caldwell-Pope,/players/c/caldwke01.html,2013 (Pick 8),Kentavious Caldwell-Pope
+5473,Kyle Kuzma,Kyle Kuzma,Kyle Kuzma,Kyle Kuzma,Kyle Kuzma,/players/k/kuzmaky01.html,2017 (Pick 27),Kyle Kuzma
+3438,Kent Bazemore,Kent Bazemore,Kent Bazemore,Kent Bazemore,Kent Bazemore,/players/b/bazemke01.html,,Kent Bazemore
+5452,De'Aaron Fox,De'Aaron Fox,De'Aaron Fox,De'Aaron Fox,De'Aaron Fox,/players/f/foxde01.html,2017 (Pick 5),De'Aaron Fox
+5266,Jaylen Brown,Jaylen Brown,Jaylen Brown,Jaylen Brown,Jaylen Brown,/players/b/brownja02.html,2016 (Pick 3),Jaylen Brown
+5456,Dennis Smith Jr.,Dennis Smith Jr.,Dennis Smith Jr.,Dennis Smith,Dennis Smith,/players/s/smithde03.html,2017 (Pick 9),Dennis Smith Jr.
+5476,Josh Hart,Josh Hart,Josh Hart,Josh Hart,Josh Hart,/players/h/hartjo01.html,2017 (Pick 30),Josh Hart
+5355,Jakob Poeltl,Jakob Poeltl,Jakob Poeltl,Jakob Poeltl,Jakob Poeltl,/players/p/poeltja01.html,2016 (Pick 9),Jakob Poeltl
+5058,Delon Wright,Delon Wright,Delon Wright,Delon Wright,Delon Wright,/players/w/wrighde01.html,2015 (Pick 20),Delon Wright
+1831,Dirk Nowitzki,Dirk Nowitzki,Dirk Nowitzki,Dirk Nowitzki,Dirk Nowitzki,/players/n/nowitdi01.html,,Dirk Nowitzki
+3388,Markieff Morris,Markieff Morris,Markieff Morris,Markieff Morris,Markieff Morris,/players/m/morrima02.html,2011 (Pick 13),Markieff Morris
+5469,O.G. Anunoby,OG Anunoby,OG Anunoby,OG Anunoby,OG Anunoby,/players/a/anunoog01.html,2017 (Pick 23),OG Anunoby
+3354,Bojan Bogdanovic,Bojan Bogdanovic,Bojan Bogdanovic,Bojan Bogdanovic,Bojan Bogdanovic,/players/b/bogdabo02.html,2011 (Pick 31),Bojan Bogdanovic
+5017,Willy Hernangomez,Willy Hernangomez,Willy Hernangomez,Willy Hernangomez,Willy Hernangomez,/players/h/hernawi01.html,2015 (Pick 35),Willy Hernangomez
+2492,Marvin Williams,Marvin Williams,Marvin Williams,Marvin Williams,Marvin Williams,/players/w/willima02.html,2005 (Pick 2),Marvin Williams
+2003,Carmelo Anthony,Carmelo Anthony,Carmelo Anthony,Carmelo Anthony,Carmelo Anthony,/players/a/anthoca01.html,2003 (Pick 3),Carmelo Anthony
+3370,Reggie Jackson,Reggie Jackson,Reggie Jackson,Reggie Jackson,Reggie Jackson,/players/j/jacksre01.html,2011 (Pick 24),Reggie Jackson
+5042,Bobby Portis,Bobby Portis,Bobby Portis,Bobby Portis,Bobby Portis,/players/p/portibo01.html,2015 (Pick 22),Bobby Portis
+3674,Dennis Schroder,Dennis Schröder,Dennis Schroder,Dennis Schroder,Dennis Schroder,/players/s/schrode01.html,2013 (Pick 17),Dennis Schroder
+3949,Marcus Smart,Marcus Smart,Marcus Smart,Marcus Smart,Marcus Smart,/players/s/smartma01.html,2014 (Pick 6),Marcus Smart
+3089,Wesley Matthews,Wesley Matthews,Wesley Matthews,Wesley Matthews,Wesley Matthews,/players/m/matthwe02.html,,Wesley Matthews
+3047,Danny Green,Danny Green,Danny Green,Danny Green,Danny Green,/players/g/greenda02.html,2009 (Pick 46),Danny Green
+3010,DeMarre Carroll,DeMarre Carroll,DeMarre Carroll,DeMarre Carroll,DeMarre Carroll,/players/c/carrode01.html,2009 (Pick 27),DeMarre Carroll
+5458,Malik Monk,Malik Monk,Malik Monk,Malik Monk,Malik Monk,/players/m/monkma01.html,2017 (Pick 11),Malik Monk
+3397,Isaiah Thomas,Isaiah Thomas,Isaiah Thomas,Isaiah Thomas,Isaiah Thomas,/players/t/thomais02.html,2011 (Pick 60),Isaiah Thomas
+5433,Domantas Sabonis,Domantas Sabonis,Domantas Sabonis,Domantas Sabonis,Domantas Sabonis,/players/s/sabondo01.html,2016 (Pick 11),Domantas Sabonis
+5039,Kelly Oubre Jr.,Kelly Oubre,Kelly Oubre Jr.,Kelly Oubre,Kelly Oubre,/players/o/oubreke01.html,2015 (Pick 15),Kelly Oubre Jr.
+3696,Reggie Bullock,Reggie Bullock,Reggie Bullock,Reggie Bullock,Reggie Bullock,/players/b/bullore01.html,2013 (Pick 25),Reggie Bullock
+3945,Dwight Powell,Dwight Powell,Dwight Powell,Dwight Powell,Dwight Powell,/players/p/poweldw01.html,2014 (Pick 45),Dwight Powell
+3456,Jae Crowder,Jae Crowder,Jae Crowder,Jae Crowder,Jae Crowder,/players/c/crowdja01.html,2012 (Pick 34),Jae Crowder
+5028,Kevon Looney,Kevon Looney,Kevon Looney,Kevon Looney,Kevon Looney,/players/l/looneke01.html,2015 (Pick 30),Kevon Looney
+2445,Ersan Ilyasova,Ersan Ilyasova,Ersan Ilyasova,Ersan Ilyasova,Ersan Ilyasova,/players/i/ilyaser01.html,2005 (Pick 36),Ersan Ilyasova
+3863,Seth Curry,Seth Curry,Seth Curry,Seth Curry,Seth Curry,/players/c/curryse01.html,2013,Seth Curry
+3490,JaMychal Green,JaMychal Green,JaMychal Green,JaMychal Green,JaMychal Green,/players/g/greenja01.html,,JaMychal Green
+5721,Marvin Bagley,Marvin Bagley III,Marvin Bagley III,Marvin Bagley,Marvin Bagley,/players/b/baglema01.html,2018 (Pick 2),Marvin Bagley III
+3127,Nemanja Bjelica,Nemanja Bjelica,Nemanja Bjelica,Nemanja Bjelica,Nemanja Bjelica,/players/b/bjeline01.html,2010 (Pick 35),Nemanja Bjelica
+3581,Terrence Ross,Terrence Ross,Terrence Ross,Terrence Ross,Terrence Ross,/players/r/rosste01.html,2012 (Pick 8),Terrence Ross
+5717,Mikal Bridges,Mikal Bridges,Mikal Bridges,Mikal Bridges,Mikal Bridges,/players/b/bridgmi01.html,2018 (Pick 10),Mikal Bridges
+5047,Terry Rozier,Terry Rozier,Terry Rozier,Terry Rozier,Terry Rozier,/players/r/roziete01.html,2015 (Pick 16),Terry Rozier
+3718,Nerlens Noel,Nerlens Noel,Nerlens Noel,Nerlens Noel,Nerlens Noel,/players/n/noelne01.html,2013 (Pick 6),Nerlens Noel
+2086,Pau Gasol,Pau Gasol,Pau Gasol,Pau Gasol,Pau Gasol,/players/g/gasolpa01.html,2001 (Pick 3),Pau Gasol
+3720,Alex Len,Alex Len,Alex Len,Alex Len,Alex Len,/players/l/lenal01.html,2013 (Pick 5),Alex Len
+3956,T.J. Warren,T.J. Warren,TJ Warren,T.J. Warren,T.J. Warren,/players/w/warretj01.html,2014 (Pick 14),TJ Warren
+3924,Joe Harris,Joe Harris,Joe Harris,Joe Harris,Joe Harris,/players/h/harrijo01.html,2014 (Pick 33),Joe Harris
+2436,Marcin Gortat,Marcin Gortat,Marcin Gortat,Marcin Gortat,Marcin Gortat,/players/g/gortama01.html,2005 (Pick 57),Marcin Gortat
+2636,Thabo Sefolosha,Thabo Sefolosha,Thabo Sefolosha,Thabo Sefolosha,Thabo Sefolosha,/players/s/sefolth01.html,2006 (Pick 13),Thabo Sefolosha
+2807,Ryan Anderson,Ryan Anderson,Ryan Anderson,Ryan Anderson,Ryan Anderson,/players/a/anderry01.html,2008 (Pick 21),Ryan Anderson
+5024,Stanley Johnson,Stanley Johnson,Stanley Johnson,Stanley Johnson,Stanley Johnson,/players/j/johnsst04.html,2015 (Pick 8),Stanley Johnson
+3385,E'Twaun Moore,E'Twaun Moore,E'Twaun Moore,E'Twaun Moore,E'Twaun Moore,/players/m/mooreet01.html,2011 (Pick 55),E'Twaun Moore
+3110,Patrick Patterson,Patrick Patterson,Patrick Patterson,Patrick Patterson,Patrick Patterson,/players/p/pattepa01.html,2010 (Pick 14),Patrick Patterson
+3104,Avery Bradley,Avery Bradley,Avery Bradley,Avery Bradley,Avery Bradley,/players/b/bradlav01.html,2010 (Pick 19),Avery Bradley
+2633,Rajon Rondo,Rajon Rondo,Rajon Rondo,Rajon Rondo,Rajon Rondo,/players/r/rondora01.html,2006 (Pick 21),Rajon Rondo
+2643,P.J. Tucker,P.J. Tucker,PJ Tucker,P.J. Tucker,P.J. Tucker,/players/t/tuckepj01.html,2006 (Pick 35),PJ Tucker
+5025,Tyus Jones,Tyus Jones,Tyus Jones,Tyus Jones,Tyus Jones,/players/j/jonesty01.html,2015 (Pick 24),Tyus Jones
+3947,Glenn Robinson III,Glen Robinson III,Glenn Robinson III,Glenn Robinson,Glenn Robinson,/players/r/robingl02.html,2014 (Pick 40),Glenn Robinson III
+5673,Miles Bridges,Miles Bridges,Miles Bridges,Miles Bridges,Miles Bridges,/players/b/bridgmi02.html,2018 (Pick 12),Miles Bridges
+5705,Kevin Knox,Kevin Knox,Kevin Knox,Kevin Knox,Kevin Knox,/players/k/knoxke01.html,2018 (Pick 9),Kevin Knox
+3057,Wayne Ellington,Wayne Ellington,Wayne Ellington,Wayne Ellington,Wayne Ellington,/players/e/ellinwa01.html,2009 (Pick 28),Wayne Ellington
+3921,Jerami Grant,Jerami Grant,Jerami Grant,Jerami Grant,Jerami Grant,/players/g/grantje01.html,2014 (Pick 39),Jerami Grant
+2289,Andre Iguodala,Andre Iguodala,Andre Iguodala,Andre Iguodala,Andre Iguodala,/players/i/iguodan01.html,2004 (Pick 9),Andre Iguodala
+5455,Frank Ntilikina,Frank Ntilikina,Frank Ntilikina,Frank Ntilikina,Frank Ntilikina,/players/n/ntilila01.html,2017 (Pick 8),Frank Ntilikina
+5444,Shaq Harrison,Shaquille Harrison,Shaquille Harrison,Shaquille Harrison,Shaquille Harrison,/players/h/harrish01.html,,Shaquille Harrison
+3700,James Ennis,James Ennis,James Ennis III,James Ennis,James Ennis,/players/e/ennisja01.html,2013 (Pick 50),James Ennis III
+5451,Josh Jackson,Josh Jackson,Josh Jackson,Josh Jackson,Josh Jackson,/players/j/jacksjo02.html,2017 (Pick 4),Josh Jackson
+2578,J.J. Barea,Jose Barea,J.J. Barea,J.J. Barea,J.J. Barea,/players/b/bareajo01.html,2006,J.J. Barea
+5377,Denzel Valentine,Denzel Valentine,Denzel Valentine,Denzel Valentine,Denzel Valentine,/players/v/valende01.html,2016 (Pick 14),Denzel Valentine
+5029,Trey Lyles,Trey Lyles,Trey Lyles,Trey Lyles,Trey Lyles,/players/l/lylestr01.html,2015 (Pick 12),Trey Lyles
+3563,Kyle O'Quinn,Kyle O'Quinn,Kyle O'Quinn,Kyle O'Quinn,Kyle O'Quinn,/players/o/oquinky01.html,2012 (Pick 49),Kyle O'Quinn
+1807,Kyle Korver,Kyle Korver,Kyle Korver,Kyle Korver,Kyle Korver,/players/k/korveky01.html,2003 (Pick 51),Kyle Korver
+3672,Mike Muscala,Mike Muscala,Mike Muscala,Mike Muscala,Mike Muscala,/players/m/muscami01.html,2013 (Pick 44),Mike Muscala
+3159,Ed Davis,Ed Davis,Ed Davis,Ed Davis,Ed Davis,/players/d/davised01.html,2010 (Pick 13),Ed Davis
+3713,Andre Roberson,Andre Roberson,Andre Roberson,Andre Roberson,Andre Roberson,/players/r/roberan03.html,2013 (Pick 26),Andre Roberson
+5351,Skal Labissiere,Skal Labissiere,Skal Labissiere,Skal Labissiere,Skal Labissiere,/players/l/labissk01.html,2016 (Pick 28),Skal Labissiere
+5693,Shai Gilgeous-Alexander,Shai Gilgeous-Alexander,Shai Gilgeous-Alexander,Shai Gilgeous-Alexander,Shai Gilgeous-Alexander,/players/g/gilgesh01.html,2018 (Pick 11),Shai Gilgeous-Alexander
+5491,Dillon Brooks,Dillon Brooks,Dillon Brooks,Dillon Brooks,Dillon Brooks,/players/b/brookdi01.html,2017 (Pick 45),Dillon Brooks
+5373,Yogi Ferrell,Yogi Ferrell,Yogi Ferrell,Yogi Ferrell,Yogi Ferrell,/players/f/ferreyo01.html,2016,Yogi Ferrell
+3107,Greg Monroe,Greg Monroe,Greg Monroe,Greg Monroe,Greg Monroe,/players/m/monrogr01.html,2010 (Pick 7),Greg Monroe
+3355,MarShon Brooks,MarShon Brooks,MarShon Brooks,MarShon Brooks,MarShon Brooks,/players/b/brookma01.html,2011 (Pick 25),
+5093,Jonathon Simmons,Jonathon Simmons,Jonathon Simmons,Jonathon Simmons,Jonathon Simmons,/players/s/simmojo02.html,,Jonathon Simmons
+5057,Justise Winslow,Justise Winslow,Justise Winslow,Justise Winslow,Justise Winslow,/players/w/winslju01.html,2015 (Pick 10),Justise Winslow
+5011,Jerian Grant,Jerian Grant,Jerian Grant,Jerian Grant,Jerian Grant,/players/g/grantje02.html,2015 (Pick 19),Jerian Grant
+5677,Collin Sexton,Collin Sexton,Collin Sexton,Collin Sexton,Collin Sexton,/players/s/sextoco01.html,2018 (Pick 8),Collin Sexton
+5457,Zach Collins,Zach Collins,Zach Collins,Zach Collins,Zach Collins,/players/c/colliza01.html,2017 (Pick 10),Zach Collins
+2844,Courtney Lee,Courtney Lee,Courtney Lee,Courtney Lee,Courtney Lee,/players/l/leeco01.html,2008 (Pick 22),Courtney Lee
+2710,Wilson Chandler,Wilson Chandler,Wilson Chandler,Wilson Chandler,Wilson Chandler,/players/c/chandwi01.html,2007 (Pick 23),Wilson Chandler
+2847,Robin Lopez,Robin Lopez,Robin Lopez,Robin Lopez,Robin Lopez,/players/l/lopezro01.html,2008 (Pick 15),Robin Lopez
+3910,Jordan Clarkson,Jordan Clarkson,Jordan Clarkson,Jordan Clarkson,Jordan Clarkson,/players/c/clarkjo01.html,2014 (Pick 46),Jordan Clarkson
+3620,Dion Waiters,Dion Waiters,Dion Waiters,Dion Waiters,Dion Waiters,/players/w/waitedi01.html,2012 (Pick 4),Dion Waiters
+2705,Marco Belinelli,Marco Belinelli,Marco Belinelli,Marco Belinelli,Marco Belinelli,/players/b/belinma01.html,2007 (Pick 18),Marco Belinelli
+5711,Mohamed Bamba,Mohamed Bamba,Mohamed Bamba,Mohamed Bamba,Mohamed Bamba,/players/b/bambamo01.html,2018 (Pick 6),Mohamed Bamba
+3225,Ish Smith,Ishmael Smith,Ish Smith,Ish Smith,Ish Smith,/players/s/smithis01.html,,Ish Smith
+5461,Bam Adebayo,Edrice Adebayo,Bam Adebayo,Bam Adebayo,Bam Adebayo,/players/a/adebaba01.html,2017 (Pick 14),Bam Adebayo
+1787,Dwyane Wade,Dwyane Wade,Dwyane Wade,Dwyane Wade,Dwyane Wade,/players/w/wadedw01.html,2003 (Pick 5),Dwyane Wade
+2129,Zaza Pachulia,Zaza Pachulia,Zaza Pachulia,Zaza Pachulia,Zaza Pachulia,/players/p/pachuza01.html,2003 (Pick 42),Zaza Pachulia
+2857,Derrick Rose,Derrick Rose,Derrick Rose,Derrick Rose,Derrick Rose,/players/r/rosede01.html,2008 (Pick 1),Derrick Rose
+3993,Tyler Johnson,Tyler Johnson,Tyler Johnson,Tyler Johnson,Tyler Johnson,/players/j/johnsty01.html,,Tyler Johnson
+5040,Cameron Payne,Cameron Payne,Cameron Payne,Cameron Payne,Cameron Payne,/players/p/payneca01.html,2015 (Pick 14),Cameron Payne
+3076,Garrett Temple,Garrett Temple,Garrett Temple,Garrett Temple,Garrett Temple,/players/t/templga01.html,,Garrett Temple
+2439,Gerald Green,Gerald Green,Gerald Green,Gerald Green,Gerald Green,/players/g/greenge01.html,2005 (Pick 18),Gerald Green
+5021,Richaun Holmes,Richaun Holmes,Richaun Holmes,Richaun Holmes,Richaun Holmes,/players/h/holmeri01.html,2015 (Pick 37),Richaun Holmes
+5662,Kevin Huerter,Kevin Huerter,Kevin Huerter,Kevin Huerter,Kevin Huerter,/players/h/huertke01.html,2018 (Pick 19),Kevin Huerter
+3387,Marcus Morris,Marcus Morris,Marcus Morris,Marcus Morris,Marcus Morris,/players/m/morrima03.html,2011 (Pick 14),Marcus Morris
+3147,Evan Turner,Evan Turner,Evan Turner,Evan Turner,Evan Turner,/players/t/turneev01.html,2010 (Pick 2),Evan Turner
+2850,Luc Mbah a Moute,Luc Richard Mbah a Moute,Luc Mbah a Moute,Luc Mbah a Moute,Luc Mbah a Moute,/players/m/mbahalu01.html,2008 (Pick 37),Luc Mbah a Moute
+3040,Patty Mills,Patrick Mills,Patty Mills,Patty Mills,Patty Mills,/players/m/millspa02.html,2009 (Pick 55),Patty Mills
+5434,Ante Zizic,Ante Zizic,Ante Zizic,Ante Zizic,Ante Zizic,/players/z/zizican01.html,2016 (Pick 23),Ante Zizic
+3506,Justin Holiday,Justin Holiday,Justin Holiday,Justin Holiday,Justin Holiday,/players/h/holidju01.html,,Justin Holiday
+5489,Isaiah Hartenstein,Isaiah Hartenstein,Isaiah Hartenstein,Isaiah Hartenstein,Isaiah Hartenstein,/players/h/harteis01.html,2018 (Pick 43),
+3586,Tomas Satoransky,Tomas Satoransky,Tomas Satoransky,Tomas Satoransky,Tomas Satoransky,/players/s/satorto01.html,2012 (Pick 32),Tomas Satoransky
+5475,Derrick White,Derrick White,Derrick White,Derrick White,Derrick White,/players/w/whitede01.html,2017 (Pick 29),Derrick White
+3675,Mason Plumlee,Mason Plumlee,Mason Plumlee,Mason Plumlee,Mason Plumlee,/players/p/plumlma01.html,2013 (Pick 22),Mason Plumlee
+3549,Salah Mejri,Salah Mejri,Salah Mejri,Salah Mejri,Salah Mejri,/players/m/mejrisa01.html,,Salah Mejri
+4049,Daniel Theis,Daniel Theis,Daniel Theis,Daniel Theis,Daniel Theis,/players/t/theisda01.html,,Daniel Theis
+5492,Sterling Brown,Sterling Brown,Sterling Brown,Sterling Brown,Sterling Brown,/players/b/brownst02.html,2017 (Pick 46),Sterling Brown
+3352,Davis Bertans,Davis Bertans,Davis Bertans,Davis Bertans,Davis Bertans,/players/b/bertada01.html,2011 (Pick 42),Davis Bertans
+2448,Amir Johnson,Amir Johnson,Amir Johnson,Amir Johnson,Amir Johnson,/players/j/johnsam01.html,2005 (Pick 56),Amir Johnson
+5466,Harry Giles,Harry Giles,Harry Giles,Harry Giles,Harry Giles,/players/g/gilesha01.html,2018 (Pick 20),Harry Giles
+1983,Zach Randolph,Zach Randolph,Zach Randolph,Zach Randolph,Zach Randolph,/players/r/randoza01.html,2001 (Pick 19),Zach Randolph
+3391,Chandler Parsons,Chandler Parsons,Chandler Parsons,Chandler Parsons,Chandler Parsons,/players/p/parsoch01.html,2011 (Pick 38),Chandler Parsons
+3413,Lance Thomas,Lance Thomas,Lance Thomas,Lance Thomas,Lance Thomas,/players/t/thomala01.html,,Lance Thomas
+3575,Austin Rivers,Austin Rivers,Austin Rivers,Austin Rivers,Austin Rivers,/players/r/riverau01.html,2012 (Pick 10),Austin Rivers
+3360,Kenneth Faried,Kenneth Faried,Kenneth Faried,Kenneth Faried,Kenneth Faried,/players/f/farieke01.html,2011 (Pick 22),Kenneth Faried
+3704,Gorgui Dieng,Gorgui Dieng,Gorgui Dieng,Gorgui Dieng,Gorgui Dieng,/players/d/dienggo01.html,2013 (Pick 21),Gorgui Dieng
+3373,Cory Joseph,Cory Joseph,Cory Joseph,Cory Joseph,Cory Joseph,/players/j/josepco01.html,2011 (Pick 29),Cory Joseph
+2307,Devin Harris,Devin Harris,Devin Harris,Devin Harris,Devin Harris,/players/h/harride01.html,2004 (Pick 5),Devin Harris
+5663,Omari Spellman,Omari Spellman,Omari Spellman,Omari Spellman,Omari Spellman,/players/s/spellom01.html,2018 (Pick 30),Omari Spellman
+5715,Elie Okobo,Élie Okobo,Élie Okobo,Elie Okobo,Elie Okobo,/players/o/okoboel01.html,2018 (Pick 31),Elie Okobo
+5001,Justin Anderson,Justin Anderson,Justin Anderson,Justin Anderson,Justin Anderson,/players/a/anderju01.html,2015 (Pick 21),Justin Anderson
+2461,C.J. Miles,C.J. Miles,CJ Miles,C.J. Miles,C.J. Miles,/players/m/milescj01.html,2005 (Pick 34),CJ Miles
+2083,Tyson Chandler,Tyson Chandler,Tyson Chandler,Tyson Chandler,Tyson Chandler,/players/c/chandty01.html,2001 (Pick 2),Tyson Chandler
+2774,Anthony Tolliver,Anthony Tolliver,Anthony Tolliver,Anthony Tolliver,Anthony Tolliver,/players/t/tollian01.html,2007,Anthony Tolliver
+5687,De'Anthony Melton,De'Anthony Melton,De'Anthony Melton,De'Anthony Melton,De'Anthony Melton,/players/m/meltode01.html,2018 (Pick 46),De'Anthony Melton
+4034,Justin Jackson,Justin Jackson,Justin Jackson,Justin Jackson,Justin Jackson,/players/j/jacksju01.html,2017 (Pick 15),Justin Jackson
+5079,Quinn Cook,Quinn Cook,Quinn Cook,Quinn Cook,Quinn Cook,/players/c/cookqu01.html,2015,Quinn Cook
+3710,Alex Abrines,Alex Abrines,Alex Abrines,Alex Abrines,Alex Abrines,/players/a/abrinal01.html,2013 (Pick 32),Alex Abrines
+5332,DeAndre' Bembry,DeAndre' Bembry,DeAndre' Bembry,DeAndre' Bembry,DeAndre' Bembry,/players/b/bembrde01.html,2016 (Pick 21),DeAndre' Bembry
+3812,Boban Marjanovic,Boban Marjanovic,Boban Marjanovic,Boban Marjanovic,Boban Marjanovic,/players/m/marjabo01.html,,Boban Marjanovic
+3109,Ekpe Udoh,Ekpe Udoh,Ekpe Udoh,Ekpe Udoh,Ekpe Udoh,/players/u/udohek01.html,2010 (Pick 6),Ekpe Udoh
+5478,Davon Reed,Davon Reed,Davon Reed,Davon Reed,Davon Reed,/players/r/reedda01.html,2017 (Pick 32),Davon Reed
+3505,John Henson,John Henson,John Henson,John Henson,John Henson,/players/h/hensojo01.html,2012 (Pick 14),John Henson
+2842,Kosta Koufos,Kosta Koufos,Kosta Koufos,Kosta Koufos,Kosta Koufos,/players/k/koufoko01.html,2008 (Pick 23),Kosta Koufos
+3381,Shelvin Mack,Shelvin Mack,Shelvin Mack,Shelvin Mack,Shelvin Mack,/players/m/macksh01.html,2011 (Pick 34),Shelvin Mack
+3680,Tony Snell,Tony Snell,Tony Snell,Tony Snell,Tony Snell,/players/s/snellto01.html,2013 (Pick 20),Tony Snell
+3353,Bismack Biyombo,Bismack Biyombo,Bismack Biyombo,Bismack Biyombo,Bismack Biyombo,/players/b/biyombi01.html,2011 (Pick 7),Bismack Biyombo
+3669,Aron Baynes,Aron Baynes,Aron Baynes,Aron Baynes,Aron Baynes,/players/b/baynear01.html,,Aron Baynes
+2313,Shaun Livingston,Shaun Livingston,Shaun Livingston,Shaun Livingston,Shaun Livingston,/players/l/livinsh01.html,2004 (Pick 4),Shaun Livingston
+5105,Royce O'Neale,Royce O'Neale,Royce O'Neale,Royce O'Neale,Royce O'Neale,/players/o/onealro01.html,2015,Royce O'Neale
+3532,Michael Kidd-Gilchrist,Michael Kidd-Gilchrist,Michael Kidd-Gilchrist,Michael Kidd-Gilchrist,Michael Kidd-Gilchrist,/players/k/kiddgmi01.html,2012 (Pick 2),Michael Kidd-Gilchrist
+5363,Cheick Diallo,Cheick Diallo,Cheick Diallo,Cheick Diallo,Cheick Diallo,/players/d/diallch01.html,2016 (Pick 33),Cheick Diallo
+5649,Maxi Kleber,Maxi Kleber,Maxi Kleber,Maxi Kleber,Maxi Kleber,/players/k/klebima01.html,2014,Maxi Kleber
+3934,Doug McDermott,Doug McDermott,Doug McDermott,Doug McDermott,Doug McDermott,/players/m/mcderdo01.html,2014 (Pick 11),Doug McDermott
+5510,Luke Kornet,Luke Kornet,Luke Kornet,Luke Kornet,Luke Kornet,/players/k/kornelu01.html,,Luke Kornet
+5026,Frank Kaminsky,Frank Kaminsky,Frank Kaminsky,Frank Kaminsky,Frank Kaminsky,/players/k/kaminfr01.html,2015 (Pick 9),Frank Kaminsky
+3938,Shabazz Napier,Shabazz Napier,Shabazz Napier,Shabazz Napier,Shabazz Napier,/players/n/napiesh01.html,2014 (Pick 24),Shabazz Napier
+5307,Thon Maker,Thon Maker,Thon Maker,Thon Maker,Thon Maker,/players/m/makerth01.html,2016 (Pick 10),Thon Maker
+3716,Michael Carter-Williams,Michael Carter-Williams,Michael Carter-Williams,Michael Carter-Williams,Michael Carter-Williams,/players/c/cartemi01.html,2013 (Pick 11),Michael Carter-Williams
+3918,Dante Exum,Dante Exum,Dante Exum,Dante Exum,Dante Exum,/players/e/exumda01.html,2014 (Pick 5),Dante Exum
+5480,Frank Mason III,Frank Mason,Frank Mason III,Frank Mason,Frank Mason,/players/m/masonfr01.html,2017 (Pick 34),Frank Mason
+2280,Luol Deng,Luol Deng,Luol Deng,Luol Deng,Luol Deng,/players/d/denglu01.html,2004 (Pick 7),Luol Deng
+5612,Amile Jefferson,Amile Jefferson,Amile Jefferson,Amile Jefferson,Amile Jefferson,/players/j/jeffeam01.html,2017,
+5481,Ivan Rabb,Ivan Rabb,Ivan Rabb,Ivan Rabb,Ivan Rabb,/players/r/rabbiv01.html,2017 (Pick 35),Ivan Rabb
+2724,Jeff Green,Jeff Green,Jeff Green,Jeff Green,Jeff Green,/players/g/greenje02.html,2007 (Pick 5),Jeff Green
+2812,Michael Beasley,Michael Beasley,Michael Beasley,Michael Beasley,Michael Beasley,/players/b/beaslmi01.html,2008 (Pick 2),Michael Beasley
+5447,David Nwaba,David Nwaba,David Nwaba,David Nwaba,David Nwaba,/players/n/nwabada01.html,,David Nwaba
+5467,Terrance Ferguson,Terrance Ferguson,Terrance Ferguson,Terrance Ferguson,Terrance Ferguson,/players/f/fergute01.html,2017 (Pick 21),Terrance Ferguson
+5098,T.J. McConnell,T.J. McConnell,T.J. McConnell,T.J. McConnell,T.J. McConnell,/players/m/mccontj01.html,2015,T.J. McConnell
+5015,Andrew Harrison,Andrew Harrison,Andrew Harrison,Andrew Harrison,Andrew Harrison,/players/h/harrian01.html,2015 (Pick 44),Andrew Harrison
+5674,Chandler Hutchison,Chandler Hutchison,Chandler Hutchison,Chandler Hutchison,Chandler Hutchison,/players/h/hutchch01.html,2018 (Pick 22),Chandler Hutchison
+5367,Marquese Chriss,Marquese Chriss,Marquese Chriss,Marquese Chriss,Marquese Chriss,/players/c/chrisma01.html,2016 (Pick 8),Marquese Chriss
+5141,Ryan Broekhoff,Ryan Broekhoff,Ryan Broekhoff,Ryan Broekhoff,Ryan Broekhoff,/players/b/broekry01.html,2018,
+3400,Tristan Thompson,Tristan Thompson,Tristan Thompson,Tristan Thompson,Tristan Thompson,/players/t/thomptr01.html,2011 (Pick 4),Tristan Thompson
+2308,J.R. Smith,J.R. Smith,JR Smith,J.R. Smith,J.R. Smith,/players/s/smithjr01.html,2004 (Pick 18),JR Smith
+1909,Vince Carter,Vince Carter,Vince Carter,Vince Carter,Vince Carter,/players/c/cartevi01.html,,Vince Carter
+2430,Channing Frye,Channing Frye,Channing Frye,Channing Frye,Channing Frye,/players/f/fryech01.html,2005 (Pick 8),Channing Frye
+4048,Khem Birch,Khem Birch,Khem Birch,Khem Birch,Khem Birch,/players/b/birchkh01.html,,Khem Birch
+5398,Patrick McCaw,Patrick McCaw,Patrick McCaw,Patrick McCaw,Patrick McCaw,/players/m/mccawpa01.html,2016 (Pick 38),Patrick McCaw
+5361,Ivica Zubac,Ivica Zubac,Ivica Zubac,Ivica Zubac,Ivica Zubac,/players/z/zubaciv01.html,2016 (Pick 32),Ivica Zubac
+3589,Mike Scott,Mike Scott,Mike Scott,Mike Scott,Mike Scott,/players/s/scottmi01.html,2012 (Pick 43),Mike Scott
+2002,Nene Hilario,Nene Hilario,Nene,Nene Hilario,Nene Hilario,/players/h/hilarne01.html,2002 (Pick 7),Nene
+3018,Omri Casspi,Omri Casspi,Omri Casspi,Omri Casspi,Omri Casspi,/players/c/casspom01.html,2009 (Pick 23),Omri Casspi
+5030,Jarell Martin,Jarell Martin,Jarell Martin,Jarell Martin,Jarell Martin,/players/m/martija01.html,2015 (Pick 25),Jarell Martin
+5494,Sindarius Thornwell,Sindarius Thornwell,Sindarius Thornwell,Sindarius Thornwell,Sindarius Thornwell,/players/t/thornsi01.html,2017 (Pick 48),Sindarius Thornwell
+5707,Allonzo Trier,Allonzo Trier,Allonzo Trier,Allonzo Trier,Allonzo Trier,/players/t/trieral01.html,2018,Allonzo Trier
+5497,Monte Morris,Monte Morris,Monte Morris,Monte Morris,Monte Morris,/players/m/morrimo01.html,2017 (Pick 51),
+2428,Raymond Felton,Raymond Felton,Raymond Felton,Raymond Felton,Raymond Felton,/players/f/feltora01.html,2005 (Pick 5),Raymond Felton
+5482,Jonah Bolden,Jonah Bolden,Jonah Bolden,Jonah Bolden,Jonah Bolden,/players/b/boldejo01.html,2017 (Pick 36),
+3375,Brandon Knight,Brandon Knight,Brandon Knight,Brandon Knight,Brandon Knight,/players/k/knighbr03.html,2011 (Pick 8),Brandon Knight
+5440,Milos Teodosic,Milos Teodosic,Milos Teodosic,Milos Teodosic,Milos Teodosic,/players/t/teodomi01.html,2009,Milos Teodosic
+5685,Bruce Brown,Bruce Brown,Bruce Brown,Bruce Brown,Bruce Brown,/players/b/brownbr01.html,2018 (Pick 42),Bruce Brown Jr.
+3695,Solomon Hill,Solomon Hill,Solomon Hill,Solomon Hill,Solomon Hill,/players/h/hillso01.html,2013 (Pick 23),Solomon Hill
+3759,Ian Clark,Ian Clark,Ian Clark,Ian Clark,Ian Clark,/players/c/clarkia01.html,,Ian Clark
+5325,Wade Baldwin IV,Wade Baldwin,Wade Baldwin IV,Wade Baldwin,Wade Baldwin,/players/b/baldwwa01.html,2016 (Pick 17),
+2455,Ian Mahinmi,Ian Mahinmi,Ian Mahinmi,Ian Mahinmi,Ian Mahinmi,/players/m/mahinia01.html,2005 (Pick 28),Ian Mahinmi
+5661,Jaylen Adams,Jaylen Adams,Jaylen Adams,Jaylen Adams,Jaylen Adams,/players/a/adamsja01.html,2018,
+3183,Lance Stephenson,Lance Stephenson,Lance Stephenson,Lance Stephenson,Lance Stephenson,/players/s/stephla01.html,2010 (Pick 40),Lance Stephenson
+5368,Dragan Bender,Dragan Bender,Dragan Bender,Dragan Bender,Dragan Bender,/players/b/bendedr01.html,2016 (Pick 4),Dragan Bender
+3379,Jon Leuer,Jon Leuer,Jon Leuer,Jon Leuer,Jon Leuer,/players/l/leuerjo01.html,2011 (Pick 40),Jon Leuer
+5686,Jacob Evans,Jacob Evans,Jacob Evans,Jacob Evans,Jacob Evans,/players/e/evansja02.html,2018 (Pick 28),Jacob Evans
+5724,Grayson Allen,Grayson Allen,Grayson Allen,Grayson Allen,Grayson Allen,/players/a/allengr01.html,2018 (Pick 21),Grayson Allen
+5722,Chimezie Metu,Chimezie Metu,Chimezie Metu,Chimezie Metu,Chimezie Metu,/players/m/metuch01.html,2018 (Pick 49),Chimezie Metu
+3540,Meyers Leonard,Meyers Leonard,Meyers Leonard,Meyers Leonard,Meyers Leonard,/players/l/leoname01.html,2012 (Pick 11),Meyers Leonard
+5665,Rodions Kurucs,Rodions Kurucs,Rodions Kurucs,Rodions Kurucs,Rodions Kurucs,/players/k/kurucro01.html,2018 (Pick 40),Rodions Kurucs
+5682,Michael Porter,Michael Porter Jr.,Michael Porter Jr.,Michael Porter,Michael Porter,/players/p/portemi01.html,2018 (Pick 14),Michael Porter Jr.
+5678,Ray Spalding,Ray Spalding,Ray Spalding,Ray Spalding,Ray Spalding,/players/s/spaldra01.html,2018 (Pick 56),Ray Spalding
+3552,Darius Miller,Darius Miller,Darius Miller,Darius Miller,Darius Miller,/players/m/milleda01.html,2012 (Pick 46),Darius Miller
+3955,Noah Vonleh,Noah Vonleh,Noah Vonleh,Noah Vonleh,Noah Vonleh,/players/v/vonleno01.html,2014 (Pick 9),Noah Vonleh
+3703,Lorenzo Brown,Lorenzo Brown,Lorenzo Brown,Lorenzo Brown,Lorenzo Brown,/players/b/brownlo01.html,2013 (Pick 53),
+5599,Antonio Blakeney,Antonio Blakeney,Antonio Blakeney,Antonio Blakeney,Antonio Blakeney,/players/b/blakean01.html,2017,Antonio Blakeney
+5668,Robert Williams,Robert Williams,Robert Williams,Robert Williams,Robert Williams,/players/w/williro04.html,2018 (Pick 27),Robert Williams
+3027,Jonas Jerebko,Jonas Jerebko,Jonas Jerebko,Jonas Jerebko,Jonas Jerebko,/players/j/jerebjo01.html,2009 (Pick 39),Jonas Jerebko
+5427,Malik Beasley,Malik Beasley,Malik Beasley,Malik Beasley,Malik Beasley,/players/b/beaslma01.html,2016 (Pick 19),Malik Beasley
+2423,Jose Calderon,Jose Calderon,Jose Calderon,Jose Calderon,Jose Calderon,/players/c/caldejo01.html,2003,Jose Calderon
+5479,Wesley Iwundu,Wesley Iwundu,Wesley Iwundu,Wesley Iwundu,Wesley Iwundu,/players/i/iwundwe01.html,2017 (Pick 33),Wes Iwundu
+5281,Ty Wallace,Ty Wallace,Tyrone Wallace,Tyrone Wallace,Tyrone Wallace,/players/w/wallaty01.html,2016 (Pick 60),Tyrone Wallace
+5594,Troy Caupain,Troy Caupain,Troy Caupain,Troy Caupain,Troy Caupain,/players/c/caupatr01.html,2018,
+5713,Landry Shamet,Landry Shamet,Landry Shamet,Landry Shamet,Landry Shamet,/players/s/shamela01.html,2018 (Pick 26),Landry Shamet
+3335,Timofey Mozgov,Timofey Mozgov,Timofey Mozgov,Timofey Mozgov,Timofey Mozgov,/players/m/mozgoti01.html,2008,Timofey Mozgov
+5577,Torrey Craig,Torrey Craig,Torrey Craig,Torrey Craig,Torrey Craig,/players/c/craigto01.html,2014,Torrey Craig
+3951,Nik Stauskas,Nik Stauskas,Nik Stauskas,Nik Stauskas,Nik Stauskas,/players/s/stausni01.html,2014 (Pick 8),Nik Stauskas
+5035,Emmanuel Mudiay,Emmanuel Mudiay,Emmanuel Mudiay,Emmanuel Mudiay,Emmanuel Mudiay,/players/m/mudiaem01.html,2015 (Pick 7),Emmanuel Mudiay
+5343,Juan Hernangomez,Juan Hernangomez,Juan Hernangomez,Juan Hernangomez,Juan Hernangomez,/players/h/hernaju01.html,2016 (Pick 15),Juancho Hernangomez
+5695,Sviatoslav Mykhailiuk,Sviatoslav Mykhailiuk,Sviatoslav Mykhailiuk,Sviatoslav Mykhailiuk,Sviatoslav Mykhailiuk,/players/m/mykhasv01.html,2018 (Pick 47),Sviatoslav Mykhailiuk
+3030,Jodie Meeks,Jodie Meeks,Jodie Meeks,Jodie Meeks,Jodie Meeks,/players/m/meeksjo01.html,2009 (Pick 41),Jodie Meeks
+5272,Timothe Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,/players/l/luwawti01.html,2016 (Pick 24),Timothe Luwawu-Cabarrot
+5477,Frank Jackson,Frank Jackson,Frank Jackson,Frank Jackson,Frank Jackson,/players/j/jacksfr01.html,2018 (Pick 31),
+5712,Zhaire Smith,Zhaire Smith,Zhaire Smith,Zhaire Smith,Zhaire Smith,/players/s/smithzh01.html,2018 (Pick 16),Zhaire Smith
+5044,Norman Powell,Norman Powell,Norman Powell,Norman Powell,Norman Powell,/players/p/powelno01.html,2015 (Pick 46),Norman Powell
+5697,Moe Wagner,Moe Wagner,Moe Wagner,Moritz Wagner,Moritz Wagner,/players/w/wagnemo01.html,2018 (Pick 25),Moritz Wagner
+5243,Henry Ellenson,Henry Ellenson,Henry Ellenson,Henry Ellenson,Henry Ellenson,/players/e/ellenhe01.html,2016 (Pick 18),Henry Ellenson
+5702,Keita Bates-Diop,Keita Bates-Diop,Keita Bates-Diop,Keita Bates-Diop,Keita Bates-Diop,/players/b/bateske01.html,2018 (Pick 48),Keita Bates-Diop
+5710,Melvin Frazier,Melvin Frazier,Melvin Frazier,Melvin Frazier,Melvin Frazier,/players/f/frazime01.html,2018 (Pick 35),Melvin Frazier
+2148,Tony Parker,Tony Parker,Tony Parker,Tony Parker,Tony Parker,/players/p/parketo01.html,2001 (Pick 28),Tony Parker
+3775,Matthew Dellavedova,Matthew Dellavedova,Matthew Dellavedova,Matthew Dellavedova,Matthew Dellavedova,/players/d/dellama01.html,2013,Matthew Dellavedova
+5438,Wayne Selden Jr.,Wayne Selden,Wayne Selden,Wayne Selden,Wayne Selden,/players/s/seldewa01.html,2016,Wayne Selden
+5670,Devonte' Graham,Devonte' Graham,Devonte' Graham,Devonte' Graham,Devonte' Graham,/players/g/grahade01.html,2018 (Pick 34),Devonte' Graham
+3041,Dante Cunningham,Dante Cunningham,Dante Cunningham,Dante Cunningham,Dante Cunningham,/players/c/cunnida01.html,2009 (Pick 33),Dante Cunningham
+5723,Lonnie Walker,Lonnie Walker,Lonnie Walker,Lonnie Walker,Lonnie Walker,/players/w/walkelo01.html,2018 (Pick 18),Lonnie Walker IV
+5371,Jake Layman,Jake Layman,Jake Layman,Jake Layman,Jake Layman,/players/l/laymaja01.html,2016 (Pick 47),
+5389,Dorian Finney-Smith,Dorian Finney-Smith,Dorian Finney-Smith,Dorian Finney-Smith,Dorian Finney-Smith,/players/f/finnedo01.html,2016,Dorian Finney-Smith
+3356,Alec Burks,Alec Burks,Alec Burks,Alec Burks,Alec Burks,/players/b/burksal01.html,2011 (Pick 12),Alec Burks
+5701,Josh Okogie,Josh Okogie,Josh Okogie,Josh Okogie,Josh Okogie,/players/o/okogijo01.html,2018 (Pick 20),Josh Okogie
+5538,Jordan Loyd,Jordan Loyd,Jordan Loyd,Jordan Loyd,Jordan Loyd,/players/l/loydjo01.html,2018,
+5684,Khyri Thomas,Khyri Thomas,Khyri Thomas,Khyri Thomas,Khyri Thomas,/players/t/thomakh01.html,2018 (Pick 38),Khyri Thomas
+5490,Damyean Dotson,Damyean Dotson,Damyean Dotson,Damyean Dotson,Damyean Dotson,/players/d/dotsoda01.html,2017 (Pick 44),Damyean Dotson
+5145,Christian Wood,Christian Wood,Christian Wood,Christian Wood,Christian Wood,/players/w/woodch01.html,,
+5154,Chasson Randle,Chasson Randle,Chasson Randle,Chasson Randle,Chasson Randle,/players/r/randlch01.html,2016,
+5076,Alan Williams,Alan Williams,Alan Williams,Alan Williams,Alan Williams,/players/w/willial03.html,,Alan Williams
+5239,Ron Baker,Ron Baker,Ron Baker,Ron Baker,Ron Baker,/players/b/bakerro01.html,2016,Ron Baker
+4008,Langston Galloway,Langston Galloway,Langston Galloway,Langston Galloway,Langston Galloway,/players/g/gallola01.html,,Langston Galloway
+5618,Devin Robinson,Devin Robinson,Devin Robinson,Devin Robinson,Devin Robinson,/players/r/robinde01.html,2017,
+3725,Ben McLemore,Ben McLemore,Ben McLemore,Ben McLemore,Ben McLemore,/players/m/mclembe01.html,2013 (Pick 7),Ben McLemore
+5008,Sam Dekker,Sam Dekker,Sam Dekker,Sam Dekker,Sam Dekker,/players/d/dekkesa01.html,2015 (Pick 18),Sam Dekker
+3622,Brad Wanamaker,Bradley Wanamaker,Bradley Wanamaker,Brad Wanamaker,Brad Wanamaker,/players/w/wanambr01.html,,
+5549,Isaiah Briscoe,Isaiah Briscoe,Isaiah Briscoe,Isaiah Briscoe,Isaiah Briscoe,/players/b/briscis01.html,2018,
+2755,Jason Smith,Jason Smith,Jason Smith,Jason Smith,Jason Smith,/players/s/smithja02.html,2007 (Pick 20),Jason Smith
+5681,Jarred Vanderbilt,Jarred Vanderbilt,Jarred Vanderbilt,Jarred Vanderbilt,Jarred Vanderbilt,/players/v/vandeja01.html,2018 (Pick 41),Jarred Vanderbilt
+5462,Justin Patton,Justin Patton,Justin Patton,Justin Patton,Justin Patton,/players/p/pattoju01.html,2017 (Pick 16),Justin Patton
+5666,Dzanan Musa,Dzanan Musa,Dzanan Musa,Dzanan Musa,Dzanan Musa,/players/m/musadz01.html,2018 (Pick 29),Dzanan Musa
+5748,Wenyen Gabriel,Wenyen Gabriel,Wenyen Gabriel,Wenyen Gabriel,Wenyen Gabriel,/players/g/gabriwe01.html,2018,
+5486,Dwayne Bacon,Dwayne Bacon,Dwayne Bacon,Dwayne Bacon,Dwayne Bacon,/players/b/bacondw01.html,2017 (Pick 40),Dwayne Bacon
+5792,Rawle Alkins,Rawle Alkins,Rawle Alkins,Rawle Alkins,Rawle Alkins,/players/a/alkinra01.html,2018,Rawle Alkins
+5690,Aaron Holiday,Aaron Holiday,Aaron Holiday,Aaron Holiday,Aaron Holiday,/players/h/holidaa01.html,2018 (Pick 23),Aaron Holiday
+5719,Gary Trent,Gary Trent,Gary Trent,Gary Trent,Gary Trent,/players/t/trentga02.html,2018 (Pick 37),Gary Trent Jr.
+3817,Rodney McGruder,Rodney McGruder,Rodney McGruder,Rodney McGruder,Rodney McGruder,/players/m/mcgruro01.html,2013,Rodney McGruder
+2446,Jarrett Jack,Jarrett Jack,Jarrett Jack,Jarrett Jack,Jarrett Jack,/players/j/jackja01.html,2005 (Pick 22),Jarrett Jack
+5006,Pat Connaughton,Pat Connaughton,Pat Connaughton,Pat Connaughton,Pat Connaughton,/players/c/connapa01.html,2015 (Pick 41),Pat Connaughton
+3567,Miles Plumlee,Miles Plumlee,Miles Plumlee,Miles Plumlee,Miles Plumlee,/players/p/plumlmi01.html,2012 (Pick 26),Miles Plumlee
+5474,Tony Bradley,Tony Bradley,Tony Bradley,Tony Bradley,Tony Bradley,/players/b/bradlto01.html,2017 (Pick 28),Tony Bradley
+3730,Raul Neto,Raul Neto,Raul Neto,Raul Neto,Raul Neto,/players/n/netora01.html,2013 (Pick 47),Raul Neto
+5801,Theo Pinson,Theo Pinson,Theo Pinson,Theo Pinson,Theo Pinson,/players/p/pinsoth01.html,2018,Theo Pinson
+5370,Troy Williams,Troy Williams,Troy Williams,Troy Williams,Troy Williams,/players/w/willitr02.html,2016,Troy Williams
+5442,Derrick Jones,Derrick Jones,Derrick Jones,Derrick Jones,Derrick Jones,/players/j/jonesde02.html,,Derrick Jones Jr.
+5580,Isaiah Hicks,Isaiah Hicks,Isaiah Hicks,Isaiah Hicks,Isaiah Hicks,/players/h/hicksis01.html,2017,Isaiah Hicks
+5037,Jahlil Okafor,Jahlil Okafor,Jahlil Okafor,Jahlil Okafor,Jahlil Okafor,/players/o/okafoja01.html,2015 (Pick 3),Jahlil Okafor
+3952,Jarnell Stokes,Jarnell Stokes,Jarnell Stokes,Jarnell Stokes,Jarnell Stokes,/players/s/stokeja01.html,2014 (Pick 35),
+5699,Jevon Carter,Jevon Carter,Jevon Carter,Jevon Carter,Jevon Carter,/players/c/carteje01.html,2018 (Pick 32),Jevon Carter
+5700,Donte DiVincenzo,Donte DiVincenzo,Donte DiVincenzo,Donte DiVincenzo,Donte DiVincenzo,/players/d/divindo01.html,2018 (Pick 17),Donte DiVincenzo
+5487,Tyler Dorsey,Tyler Dorsey,Tyler Dorsey,Tyler Dorsey,Tyler Dorsey,/players/d/dorsety01.html,2017 (Pick 41),Tyler Dorsey
+5689,Alize Johnson,Alize Johnson,Alize Johnson,Alize Johnson,Alize Johnson,/players/j/johnsal02.html,2018 (Pick 50),Alize Johnson
+5688,Vincent Edwards,Vincent Edwards,Vincent Edwards,Vince Edwards,Vince Edwards,/players/e/edwarvi01.html,2018 (Pick 52),Vince Edwards
+5767,Drew Eubanks,Drew Eubanks,Drew Eubanks,Drew Eubanks,Drew Eubanks,/players/e/eubandr01.html,2018,
+5166,Cristiano Felicio,Cristiano Felicio,Cristiano Felicio,Cristiano Felicio,Cristiano Felicio,/players/f/feliccr01.html,2014,Cristiano Felicio
+5725,Troy Brown,Troy Brown,Troy Brown,Troy Brown,Troy Brown,/players/b/browntr01.html,2018 (Pick 15),Troy Brown
+3771,Troy Daniels,Troy Daniels,Troy Daniels,Troy Daniels,Troy Daniels,/players/d/danietr01.html,,Troy Daniels
+5694,Isaac Bonga,Isaac Bonga,Isaac Bonga,Isaac Bonga,Isaac Bonga,/players/b/bongais01.html,2018 (Pick 39),Isaac Bonga
+5691,Jerome Robinson,Jerome Robinson,Jerome Robinson,Jerome Robinson,Jerome Robinson,/players/r/robinje01.html,2018 (Pick 13),Jerome Robinson
+5574,Tyler Cavanaugh,Tyler Cavanaugh,Tyler Cavanaugh,Tyler Cavanaugh,Tyler Cavanaugh,/players/c/cavanty01.html,2017,Tyler Cavanaugh
+2811,Jerryd Bayless,Jerryd Bayless,Jerryd Bayless,Jerryd Bayless,Jerryd Bayless,/players/b/bayleje01.html,2008 (Pick 11),Jerryd Bayless
+4053,Deonte Burton,Deonte Burton,Deonte Burton,Deonte Burton,Deonte Burton,/players/b/burtode02.html,2018,
+5229,Alex Poythress,Alex Poythress,Alex Poythress,Alex Poythress,Alex Poythress,/players/p/poythal01.html,2016,
+5463,D.J. Wilson,D.J. Wilson,D.J. Wilson,D.J. Wilson,D.J. Wilson,/players/w/wilsodj01.html,2017 (Pick 17),D.J. Wilson
+3137,Quincy Pondexter,Quincy Pondexter,Quincy Pondexter,Quincy Pondexter,Quincy Pondexter,/players/p/pondequ01.html,2010 (Pick 26),
+5235,Georges Niang,Georges Niang,Georges Niang,Georges Niang,Georges Niang,/players/n/niangge01.html,2016 (Pick 50),
+5382,Danuel House,Danuel House,Danuel House,Danuel House,Danuel House,/players/h/houseda01.html,2016,Danuel House
+5428,Zhou Qi,Zhou Qi,Zhou Qi,Zhou Qi,Zhou Qi,/players/q/qizh01.html,,
+5216,Daniel Hamilton,Daniel Hamilton,Daniel Hamilton,Daniel Hamilton,Daniel Hamilton,/players/h/hamilda02.html,2016 (Pick 56),
+5683,Thomas Welsh,Thomas Welsh,Thomas Welsh,Thomas Welsh,Thomas Welsh,/players/w/welshth01.html,2018 (Pick 58),Thomas Welsh
+5488,Thomas Bryant,Thomas Bryant,Thomas Bryant,Thomas Bryant,Thomas Bryant,/players/b/bryanth01.html,2017 (Pick 42),
+2805,Alexis Ajinca,Alexis Ajinca,Alexis Ajinca,Alexis Ajinca,Alexis Ajinca,/players/a/ajincal01.html,2008 (Pick 20),Alexis Ajinca
+5347,Malachi Richardson,Malachi Richardson,Malachi Richardson,Malachi Richardson,Malachi Richardson,/players/r/richama01.html,2016 (Pick 22),Malachi Richardson
+5436,Furkan Korkmaz,Furkan Korkmaz,Furkan Korkmaz,Furkan Korkmaz,Furkan Korkmaz,/players/k/korkmfu01.html,2016 (Pick 26),
+5276,Bryn Forbes,Bryn Forbes,Bryn Forbes,Bryn Forbes,Bryn Forbes,/players/f/forbebr01.html,2016,Bryn Forbes
+5783,Gary Clark,Gary Clark,Gary Clark,Gary Clark,Gary Clark,/players/c/clarkga01.html,2018,Gary Clark
+3393,Iman Shumpert,Iman Shumpert,Iman Shumpert,Iman Shumpert,Iman Shumpert,/players/s/shumpim01.html,2011 (Pick 17),Iman Shumpert
+3562,James Nunnally,James Nunnally,James Nunnally,James Nunnally,James Nunnally,/players/m/mitrona01.html,2014,
+5101,Treveon Graham,Treveon Graham,Treveon Graham,Treveon Graham,Treveon Graham,/players/g/grahatr01.html,2015,Treveon Graham
+5274,Alex Caruso,Alex Caruso,Alex Caruso,Alex Caruso,Alex Caruso,/players/c/carusal01.html,,Alex Caruso
+5679,Jalen Brunson,Jalen Brunson,Jalen Brunson,Jalen Brunson,Jalen Brunson,/players/b/brunsja01.html,2018 (Pick 33),Jalen Brunson
+5804,Yuta Watanabe,Yuta Watanabe,Yuta Watanabe,Yuta Watanabe,Yuta Watanabe,/players/w/watanyu01.html,2018,
+5337,Isaiah Taylor,Isaiah Taylor,Isaiah Taylor,Isaiah Taylor,Isaiah Taylor,/players/t/taylois01.html,2016,Isaiah Taylor
+5714,Shake Milton,Shake Milton,Shake Milton,Shake Milton,Shake Milton,/players/m/miltosh01.html,2018 (Pick 54),Shake Milton
+5720,Anfernee Simons,Anfernee Simons,Anfernee Simons,Anfernee Simons,Anfernee Simons,/players/s/simonan01.html,2018 (Pick 24),Anfernee Simons
+2717,Jared Dudley,Jared Dudley,Jared Dudley,Jared Dudley,Jared Dudley,/players/d/dudleja01.html,2007 (Pick 22),Jared Dudley
+5472,Caleb Swanigan,Caleb Swanigan,Caleb Swanigan,Caleb Swanigan,Caleb Swanigan,/players/s/swanica01.html,2017 (Pick 26),Caleb Swanigan
+5638,Antonius Cleveland,Antonius Cleveland,Antonius Cleveland,Antonius Cleveland,Antonius Cleveland,/players/c/clevean01.html,2017,
+5802,Tyler Davis,Tyler Davis,Tyler Davis,Tyler Davis,Tyler Davis,/players/d/davisty01.html,2018,
+5249,Damion Lee,Damion Lee,Damion Lee,Damion Lee,Damion Lee,/players/l/leeda03.html,,Damion Lee
+5676,Billy Preston,Billy Preston,Billy Preston,Billy Preston,Billy Preston,/players/p/prestbi01.html,2018,
+4078,Travis Wear,Travis Wear,Travis Wear,Travis Wear,Travis Wear,/players/w/weartr01.html,2014,Travis Wear
+5796,Trevon Bluiett,Trevon Bluiett,Trevon Bluiett,Trevon Bluiett,Trevon Bluiett,/players/b/bluietr01.html,2018,
+5464,T.J. Leaf,T.J. Leaf,T.J. Leaf,T.J. Leaf,T.J. Leaf,/players/l/leaftj01.html,2017 (Pick 18),TJ Leaf
+5752,Duncan Robinson,Duncan Robinson,Duncan Robinson,Duncan Robinson,Duncan Robinson,/players/r/robindu01.html,2018,
+5857,DeVaughn Akoon-Purcell,DeVaughn Akoon-Purcell,DeVaughn Akoon-Purcell,DeVaughn Akoon-Purcell,DeVaughn Akoon-Purcell,/players/a/akoonde01.html,,
+5680,Kostas Antetokounmpo,Kostas Antetokounmpo,Kostas Antetokounmpo,Kostas Antetokounmpo,Kostas Antetokounmpo,/players/a/antetko01.html,2018 (Pick 60),Kostas Antetokounmpo
+4021,C.J. Williams,C.J. Williams,C.J. Williams,C.J. Williams,C.J. Williams,/players/w/willicj01.html,,C.J. Williams
+5756,Daryl Macon,Daryl Macon,Daryl Macon,Daryl Macon,Daryl Macon,/players/m/maconda01.html,2018,
+5669,Hamidou Diallo,Hamidou Diallo,Hamidou Diallo,Hamidou Diallo,Hamidou Diallo,/players/d/diallha01.html,2018 (Pick 45),Hamidou Diallo
+5718,George King,George King,George King,George King,George King,/players/k/kingge03.html,2018 (Pick 59),George King
+5780,Keenan Evans,Keenan Evans,Keenan Evans,Keenan Evans,Keenan Evans,/players/e/evanske01.html,2018,Keenan Evans
+5537,Naz Long,Naz Long,Naz Long,Naz Long,Naz Long,/players/m/mitrona01.html,2017,
+5692,Angel Delgado,Angel Delgado,Angel Delgado,Angel Delgado,Angel Delgado,/players/d/delgaan01.html,2018,
+5757,Yante Maten,Yante Maten,Yante Maten,Yante Maten,Yante Maten,/players/m/matenya01.html,2018,Yante Maten
+3958,C.J. Wilcox,C.J. Wilcox,C.J. Wilcox,C.J. Wilcox,C.J. Wilcox,/players/w/wilcocj01.html,2014 (Pick 28),
+5672,J.P. Macura,J.P. Macura,J.P. Macura,J.P. Macura,J.P. Macura,/players/m/macurjp01.html,,
+3936,Jordan McRae,Jordan McRae,Jordan McRae,Jordan McRae,Jordan McRae,/players/m/mcraejo01.html,2014 (Pick 58),Jordan McRae
+5483,Semi Ojeleye,Semi Ojeleye,Semi Ojeleye,Semi Ojeleye,Semi Ojeleye,/players/o/ojelese01.html,2017 (Pick 37),Semi Ojeleye
+5270,Demetrius Jackson,Demetrius Jackson,Demetrius Jackson,Demetrius Jackson,Demetrius Jackson,/players/j/jacksde01.html,2016 (Pick 45),
+5507,Johnathan Motley,Johnathan Motley,Johnathan Motley,Johnathan Motley,Johnathan Motley,/players/m/motlejo01.html,,
+5267,Guerschon Yabusele,Guerschon Yabusele,Guerschon Yabusele,Guerschon Yabusele,Guerschon Yabusele,/players/y/yabusgu01.html,2016 (Pick 16),Guerschon Yabusele
+5421,Damian Jones,Damian Jones,Damian Jones,Damian Jones,Damian Jones,/players/j/jonesda03.html,2016 (Pick 30),Damian Jones
+5659,Jaylen Morris,Jaylen Morris,Jaylen Morris,Jaylen Morris,Jaylen Morris,/players/m/morrija01.html,,
+4025,Walt Lemon,Walt Lemon,Walt Lemon,"Walt Lemon, Jr.","Walt Lemon, Jr.",/players/l/lemonwa01.html,,
+5781,Trevon Duval,Trevon Duval,Trevon Duval,Trevon Duval,Trevon Duval,/players/d/duvaltr01.html,2018,Trevon Duval
+5493,Ike Anigbogu,Ike Anigbogu,Ike Anigbogu,Ike Anigbogu,Ike Anigbogu,/players/a/anigbik01.html,2017 (Pick 47),
+3507,John Holland,John Holland,John Holland,John Holland,John Holland,/players/h/hollajo02.html,,
+5268,Abdel Nader,Abdel Nader,Abdel Nader,Abdel Nader,Abdel Nader,/players/n/naderab01.html,2016 (Pick 58),Abdel Nader
+5470,Tyler Lydon,Tyler Lydon,Tyler Lydon,Tyler Lydon,Tyler Lydon,/players/l/lydonty01.html,2017 (Pick 24),Tyler Lydon
+1789,Udonis Haslem,Udonis Haslem,Udonis Haslem,Udonis Haslem,Udonis Haslem,/players/h/hasleud01.html,2002,
+5648,Chris Boucher,Chris Boucher,Chris Boucher,Chris Boucher,Chris Boucher,/players/b/bouchch01.html,2017,
+5703,Jared Terrell,Jared Terrell,Jared Terrell,Jared Terrell,Jared Terrell,/players/t/terreja01.html,2018,
+5596,P.J. Dozier,P.J. Dozier,PJ Dozier,PJ Dozier,PJ Dozier,/players/d/doziepj01.html,2017,
+5743,Jeffrey Carroll,Jeffrey Carroll,Jeffrey Carroll,Jeffrey Carroll,Jeffrey Carroll,,,
+5729,Zach Smith,Zach Smith,Zach Smith,Zach Smith,Zach Smith,,,
+5735,Brandon Goodwin,Brandon Goodwin,Brandon Goodwin,Brandon Goodwin,Brandon Goodwin,,,
+3520,Darius Johnson-Odom,Darius Johnson-Odom,Darius Johnson-Odom,Darius Johnson-Odom,Darius Johnson-Odom,/players/j/johnsda03.html,2012 (Pick 55),
+5838,Marcus Lee,Marcus Lee,Marcus Lee,Marcus Lee,Marcus Lee,,2018,
+5740,Nick King,Nick King,Nick King,Nick King,Nick King,,,
+5749,Cameron Reynolds,Cameron Reynolds,Cameron Reynolds,Cameron Reynolds,Cameron Reynolds,,,
+3919,Alessandro Gentile,Alessandro Gentile,Alessandro Gentile,Alessandro Gentile,Alessandro Gentile,/players/g/gential01.html,2014 (Pick 53),
+5411,Marcus Georges-Hunt,Marcus Georges-Hunt,Marcus Georges-Hunt,Marcus Georges-Hunt,Marcus Georges-Hunt,/players/g/georgma01.html,,Marcus Georges-Hunt
+3907,Bruno Caboclo,Bruno Caboclo,Bruno Caboclo,Bruno Caboclo,Bruno Caboclo,/players/c/cabocbr01.html,2014 (Pick 20),
+5761,Nuni Omot,Nuni Omot,Nuni Omot,Nuni Omot,Nuni Omot,,2018,
+3926,Josh Huestis,Josh Huestis,Josh Huestis,Josh Huestis,Josh Huestis,/players/h/huestjo01.html,2014 (Pick 29),Josh Huestis
+5791,Codi Miller-McIntyre,Codi Miller-McIntyre,Codi Miller-McIntyre,Codi Miller-McIntyre,Codi Miller-McIntyre,,,
+5022,R.J. Hunter,R.J. Hunter,R.J. Hunter,R.J. Hunter,R.J. Hunter,/players/h/hunterj01.html,2015 (Pick 28),
+4106,Richard Solomon,Richard Solomon,Richard Solomon,Richard Solomon,Richard Solomon,,,
+5782,Deng Adel,Deng Adel,Deng Adel,Deng Adel,Deng Adel,,2018,
+5565,Mitchell Creek,Mitchell Creek,Mitchell Creek,Mitch Creek,Mitch Creek,/players/c/creekmi01.html,2017,
+3276,Donald Sloan,Donald Sloan,Donald Sloan,Donald Sloan,Donald Sloan,,,Donald Sloan
+5763,Marcus Derrickson,Marcus Derrickson,Marcus Derrickson,Marcus Derrickson,Marcus Derrickson,/players/d/derrima01.html,2018,
+5759,Jeff Roberson,Jeff Roberson,Jeff Roberson,Jeff Roberson,Jeff Roberson,,2018,
+3976,JaKarr Sampson,JaKarr Sampson,JaKarr Sampson,JaKarr Sampson,JaKarr Sampson,/players/s/sampsja02.html,2014,JaKarr Sampson
+5803,Jordan McLaughlin,Jordan McLaughlin,Jordan McLaughlin,Jordan McLaughlin,Jordan McLaughlin,,2018,
+3386,Darius Morris,Darius Morris,Darius Morris,Darius Morris,Darius Morris,/players/m/morrida01.html,2011 (Pick 41),
+5031,Chris McCullough,Chris McCullough,Chris McCullough,Chris McCullough,Chris McCullough,/players/m/mcculch01.html,2015 (Pick 29),Chris McCullough
+3870,Kalin Lucas,Kalin Lucas,Kalin Lucas,Kalin Lucas,Kalin Lucas,/players/l/lucaska01.html,2014,
+3985,Okaro White,Okaro White,Okaro White,Okaro White,Okaro White,/players/w/whiteok01.html,2014,Okaro White
+5785,Robert Gray,Robert Gray,Robert Gray,Robert Gray,Robert Gray,,2018,
+5336,Gary Payton II,Gary Payton II,Gary Payton II,Gary Payton II,Gary Payton II,/players/p/paytoga02.html,2016,
+5827,Zach Lofton,Zach Lofton,Zach Lofton,Zach Lofton,Zach Lofton,/players/l/loftoza01.html,2018,
+5830,Johnny Hamilton,Johnny Hamilton,Johnny Hamilton,Johnny Hamilton,Johnny Hamilton,,2018,
+5821,Brandon McCoy,Brandon McCoy,Brandon McCoy,Brandon McCoy,Brandon McCoy,,2018,Brandon McCoy
+3485,Drew Gordon,Drew Gordon,Drew Gordon,Drew Gordon,Drew Gordon,/players/g/gordodr01.html,2014,
+5797,Garlon Green,Garlon Green,Garlon Green,Garlon Green,Garlon Green,,,
+5788,Elijah Stewart,Elijah Stewart,Elijah Stewart,Elijah Stewart,Elijah Stewart,,2018,
+5338,Chinanu Onuaku,Chinanu Onuaku,Chinanu Onuaku,Chinanu Onuaku,Chinanu Onuaku,/players/o/onuakch01.html,2016 (Pick 37),
+3933,K.J. McDaniels,K.J. McDaniels,K.J. McDaniels,K.J. McDaniels,K.J. McDaniels,/players/m/mcdankj01.html,2014 (Pick 32),K.J. McDaniels
+5774,Jairus Lyles,Jairus Lyles,Jairus Lyles,Jairus Lyles,Jairus Lyles,,,
+5726,Issuf Sanon,Issuf Sanon,Issuf Sanon,Issuf Sanon,Issuf Sanon,/players/s/sanonis01.html,2018 (Pick 44),Issuf Sanon
+5727,Justin Jackson,Justin Jackson,Justin Jackson,Justin Jackson,Justin Jackson,/players/j/jacksju01.html,2018 (Pick 43),Justin Jackson
+5870,Desi Rodriguez,Desi Rodriguez,Desi Rodriguez,Desi Rodriguez,Desi Rodriguez,,2018,
+5696,Malik Newman,Malik Newman,Malik Newman,Malik Newman,Malik Newman,,2018,Malik Newman
+3579,Thomas Robinson,Thomas Robinson,Thomas Robinson,Thomas Robinson,Thomas Robinson,/players/r/robinth01.html,2012 (Pick 5),Thomas Robinson
+5393,Kyle Collinsworth,Kyle Collinsworth,Kyle Collinsworth,Kyle Collinsworth,Kyle Collinsworth,/players/c/colliky01.html,2016,Kyle Collinsworth
+5817,Joe Chealey,Joe Chealey,Joe Chealey,Joe Chealey,Joe Chealey,,2018,
+5806,Braian Angola-Rodas,Braian Angola-Rodas,Braian Angola-Rodas,Braian Angola-Rodas,Braian Angola-Rodas,,2018,
+5313,Kay Felder,Kay Felder,Kay Felder,Kay Felder,Kay Felder,/players/f/feldeka01.html,2016 (Pick 54),Kay Felder
+5708,Kevin Hervey,Kevin Hervey,Kevin Hervey,Kevin Hervey,Kevin Hervey,/players/h/herveke01.html,2018 (Pick 57),Kevin Hervey
+5358,Jalen Jones,Jalen Jones,Jalen Jones,Jalen Jones,Jalen Jones,/players/j/jonesja04.html,,
+5203,Omari Johnson,Omari Johnson,Omari Johnson,Omari Johnson,Omari Johnson,/players/j/johnsom01.html,,
+2353,Emeka Okafor,Emeka Okafor,Emeka Okafor,Emeka Okafor,Emeka Okafor,/players/o/okafoem01.html,2004 (Pick 2),Emeka Okafor
+5889,Bonzie Colson,Bonzie Colson,Bonzie Colson,Bonzie Colson,Bonzie Colson,,2018,Bonzie Colson
+5866,Jaylen Barford,Jaylen Barford,Jaylen Barford,Jaylen Barford,Jaylen Barford,,2018,Jaylen Barford
+3639,Tyler Zeller,Tyler Zeller,Tyler Zeller,Tyler Zeller,Tyler Zeller,/players/z/zellety01.html,2012 (Pick 17),Tyler Zeller
+3779,Abdul Gaddy,Abdul Gaddy,Abdul Gaddy,Abdul Gaddy,Abdul Gaddy,,,
+5509,Kobi Simmons,Kobi Simmons,Kobi Simmons,Kobi Simmons,Kobi Simmons,/players/s/simmoko01.html,,Kobi Simmons
+5485,Jawun Evans,Jawun Evans,Jawun Evans,Jawun Evans,Jawun Evans,/players/e/evansja01.html,2017 (Pick 39),Jawun Evans
+5742,Johnathan Williams,Johnathan Williams,Johnathan Williams,Johnathan Williams,Johnathan Williams,,2018,
+5816,B.J. Johnson,B.J. Johnson,B.J. Johnson,B.J. Johnson,B.J. Johnson,,2018,
+5499,Kadeem Allen,Kadeem Allen,Kadeem Allen,Kadeem Allen,Kadeem Allen,/players/a/allenka01.html,2017 (Pick 53),
+5605,Bryce Alford,Bryce Alford,Bryce Alford,Bryce Alford,Bryce Alford,/players/a/alforbr01.html,2017,
+2808,Darrell Arthur,Darrell Arthur,Darrell Arthur,Darrell Arthur,Darrell Arthur,/players/a/arthuda01.html,2008 (Pick 27),Darrell Arthur
+5505,Jaron Blossomgame,Jaron Blossomgame,Jaron Blossomgame,Jaron Blossomgame,Jaron Blossomgame,/players/b/blossja01.html,2017 (Pick 59),
+5524,Jamel Artis,Jamel Artis,Jamel Artis,Jamel Artis,Jamel Artis,/players/a/artisja01.html,2017,Jamel Artis
+5527,Ding Yanyuhang,Ding Yanyuhang,Ding Yanyuhang,Ding Yanyuhang,Ding Yanyuhang,/players/y/yanyudi01.html,2017,
+5369,Tyler Ulis,Tyler Ulis,Tyler Ulis,Tyler Ulis,Tyler Ulis,/players/u/ulisty01.html,2016 (Pick 34),Tyler Ulis
+5514,Alfonzo McKinnie,Alfonzo McKinnie,Alfonzo McKinnie,Alfonzo McKinnie,Alfonzo McKinnie,/players/m/mckinal01.html,,
+3929,Nick Johnson,Nick Johnson,Nick Johnson,Nick Johnson,Nick Johnson,/players/j/johnsni01.html,2014 (Pick 42),
+5508,Cameron Oliver,Cameron Oliver,Cameron Oliver,Cameron Oliver,Cameron Oliver,,,
+3693,Isaiah Canaan,Isaiah Canaan,Isaiah Canaan,Isaiah Canaan,Isaiah Canaan,/players/c/canaais01.html,2013 (Pick 34),Isaiah Canaan
+5535,Ben Moore,Ben Moore,Ben Moore,Ben Moore,Ben Moore,/players/m/moorebe01.html,2017,
+5884,Isaiah Wilkins,Isaiah Wilkins,Isaiah Wilkins,Isaiah Wilkins,Isaiah Wilkins,/players/w/wilkiis01.html,2019,
+5502,Jabari Bird,Jabari Bird,Jabari Bird,Jabari Bird,Jabari Bird,/players/b/birdja01.html,2017 (Pick 56),
+3706,Shabazz Muhammad,Shabazz Muhammad,Shabazz Muhammad,Shabazz Muhammad,Shabazz Muhammad,/players/m/muhamsh01.html,2013 (Pick 14),Shabazz Muhammad
+4073,Eric Moreland,Eric Moreland,Eric Moreland,Eric Moreland,Eric Moreland,/players/m/moreler01.html,2014,Eric Moreland
+2745,Joakim Noah,Joakim Noah,Joakim Noah,Joakim Noah,Joakim Noah,/players/n/noahjo01.html,2007 (Pick 9),Joakim Noah
+5865,Jonathan Stark,Jonathan Stark,Jonathan Stark,Jonathan Stark,Jonathan Stark,,2018,
+5269,Ben Bentil,Ben Bentil,Ben Bentil,Ben Bentil,Ben Bentil,/players/b/bentibe01.html,2016 (Pick 51),
+5855,Emanuel Terry,Emanuel Terry,Emanuel Terry,Emanuel Terry,Emanuel Terry,,,
+5843,Chris Chiozza,Chris Chiozza,Chris Chiozza,Chris Chiozza,Chris Chiozza,,2018,
+5845,Doral Moore,Doral Moore,Doral Moore,Doral Moore,Doral Moore,,2018,Doral Moore
+2891,Omer Asik,Omer Asik,Omer Asik,Omer Asik,Omer Asik,/players/a/asikom01.html,2008,Omer Asik
+5214,Briante Weber,Briante Weber,Briante Weber,Briante Weber,Briante Weber,/players/w/weberbr01.html,,Briante Weber
+3350,Lavoy Allen,Lavoy Allen,Lavoy Allen,Lavoy Allen,Lavoy Allen,/players/a/allenla01.html,2011 (Pick 50),Lavoy Allen
+5533,Derrick Walton Jr.,Derrick Walton Jr.,Derrick Walton Jr.,Derrick Walton,Derrick Walton,/players/w/waltode01.html,2017,
+5856,Kenrich Williams,Kenrich Williams,Kenrich Williams,Kenrich Williams,Kenrich Williams,/players/w/willike04.html,2018,Kenrich Williams
+5003,Anthony Brown,Anthony Brown,Anthony Brown,Anthony Brown,Anthony Brown,/players/b/brownan02.html,2015 (Pick 34),Anthony Brown
+5077,Levi Randolph,Levi Randolph,Levi Randolph,Levi Randolph,Levi Randolph,,,
+5878,Donte Ingram,Donte Ingram,Donte Ingram,Donte Ingram,Donte Ingram,,2018,
+5879,Kaiser Gates,Kaiser Gates,Kaiser Gates,Kaiser Gates,Kaiser Gates,,2018,
+5888,Jemerrio Jones,Jemerrio Jones,Jemerrio Jones,Jemerrio Jones,Jemerrio Jones,,2018,
+3756,Will Cherry,Will Cherry,Will Cherry,Will Cherry,Will Cherry,/players/c/cherrwi01.html,2014,
+3129,Wesley Johnson,Wesley Johnson,Wesley Johnson,Wesley Johnson,Wesley Johnson,/players/j/johnswe01.html,2010 (Pick 4),Wesley Johnson
+5887,Donte Grantham,Donte Grantham,Donte Grantham,Donte Grantham,Donte Grantham,,2018,
+3426,Xavier Silas,Xavier Silas,Xavier Silas,Xavier Silas,Xavier Silas,/players/s/silasxa01.html,,
+5275,Ryan Arcidiacono,Ryan Arcidiacono,Ryan Arcidiacono,Ryan Arcidiacono,Ryan Arcidiacono,/players/a/arcidry01.html,2016,Ryan Arcidiacono
+5847,Tiwian Kendley,Tiwian Kendley,Tiwian Kendley,Tiwian Kendley,Tiwian Kendley,,2018,
+4070,Tim Frazier,Tim Frazier,Tim Frazier,Tim Frazier,Tim Frazier,/players/f/fraziti01.html,,Tim Frazier
+5246,Norvel Pelle,Norvel Pelle,Norvel Pelle,Norvel Pelle,Norvel Pelle,,,
+5775,Isaac Haas,Isaac Haas,Isaac Haas,Isaac Haas,Isaac Haas,,2018,Isaac Haas
+5322,Reggie Hearn,Reggie Hearn,Reggie Hearn,Reggie Hearn,Reggie Hearn,/players/h/hearnre01.html,,
+5498,Edmond Sumner,Edmond Sumner,Edmond Sumner,Edmond Sumner,Edmond Sumner,/players/s/sumneed01.html,2017 (Pick 52),
+,,,,,,,,Lucas Nogueira
+,,,,,,,,Brice Johnson
+,,,,,,,,David West
+,,,,,,,,Andzejs Pasecniks
+,,,Cole Aldrich,,,,,Cole Aldrich
+,,,,,,,,David Lee
+,,,,,,,,Tim Duncan
+,,,,,,,,Chris Bosh
+,,,,,,,,Jared Sullinger
+,,,,,,,,Brandan Wright
+,,,,,,,,Festus Ezeli
+,,,,,,,,Marreese Speights
+,,,,,,,,Chris Johnson
+,,,,,,,,Trevor Booker
+,,,,,,,,Jeff Withey
+,,,,,,,,Willie Reed
+,,,,,,,,Andrew Bogut
+,,,,,,,,Amar'e Stoudemire
+,,,,,,,,Spencer Hawes
+,,,,,,,,Justin Hamilton
+,,,,,,,,Alec Peters
+,,,,,,,,Mario Chalmers
+,,,,,,,,Jamil Wilson
+,,,,,,,,Myke Henry
+,,,,,,,,Deron Williams
+,,,,,,,,Donatas Motiejunas
+,,,Deyonta Davis,,,,,Deyonta Davis
+,,,,,,,,Tyler Ennis
+,,,,,,,,Shane Larkin
+,,,,,,,,Mike James
+,,,,,,,,Toney Douglas
+,,,,,,,,Tarik Black
+,,,,,,,,Roy Hibbert
+,,,,,,,,Luke Babbitt
+,,,,,,,,James Michael McAdoo
+,,,,,,,,Adreian Payne
+,,,,,,,,Terrence Jones
+,,,,,,,,Archie Goodwin
+,,,,,,,,Anderson Varejao
+,,,,,,,,Ryan Kelly
+,,,,,,,,Jordan Hill
+,,,Quincy Acy,,,,,Quincy Acy
+,,,,,,,,Jordan Mickey
+,,,,,,,,Corey Brewer
+,,,,,,,,O.J. Mayo
+,,,,,,,,Nick Collison
+,,,,,,,,Chase Budinger
+,,,,,,,,Mike Miller
+,,,,,,,,Matt Barnes
+,,,,,,,,Josh McRoberts
+,,,,,,,,Carl Landry
+,,,,,,,,Brandon Jennings
+,,,,,,,,Aaron Harrison
+,,,,,,,,Joffrey Lauvergne
+,,,,,,,,Andrea Bargnani
+,,,,,,,,Manu Ginobili
+,,,,,,,,Damjan Rudez
+,,,,,,,,Al Jefferson
+,,,Brandon Paul,,,,,Brandon Paul
+,,,,,,,,Ty Lawson
+,,,,,,,,Rashad Vaughn
+,,,,,,,,Beno Udrih
+,,,Isaiah Whitehead,,,,,Isaiah Whitehead
+,,,,,,,,Tony Allen
+,,,,,,,,Chris Andersen
+,,,,,,,,Tiago Splitter
+,,,,,,,,Alonzo Gee
+,,,,,,,,Hollis Thompson
+,,,,,,,,Andrew Nicholson
+,,,,,,,,James Anderson
+,,,,,,,,Kevin Seraphin
+,,,,,,,,DeAndre Liggins
+,,,,,,,,Mirza Teletovic
+,,,,,,,,Johnny O'Bryant III
+,,,,,,,,P.J. Hairston
+,,,,,,,,Josh Magette
+,,,,,,,,Brandon Bass
+,,,Dwight Buycks,,,,,Dwight Buycks
+,,,,,,,,Kevin Garnett
+,,,,,,,,Arnoldas Kulboka
+,,,Nick Young,,,,,Nick Young
+,,,,,,,,Norris Cole
+,,,,,,,,Kris Humphries
+,,,,,,,,Luis Scola
+,,,,,,,,Sergio Rodriguez
+,,,,,,,,Charlie Villanueva
+,,,,,,,,Metta World Peace
+,,,,,,,,Monta Ellis
+,,,,,,,,Derrick Williams
+,,,,,,,,Ronnie Price
+,,,,,,,,Sasha Vujacic
+,,,,,,,,Darrun Hilliard
+,,,,,,,,Markel Brown
+,,,,,,,,Kendrick Perkins
+,,,,,,,,James Jones
+,,,,,,,,Steve Blake
+,,,,,,,,Dakota Mathias
+,,,,,,,,Devon Hall
+,,,,,,,,Mo Williams
+,,,,,,,,Kevin Martin
+,,,,,,,,Joe Young
+,,,,,,,,Mike Dunleavy
+,,,,,,,,Rodney Stuckey
+,,,,,,,,Kyle Singler
+,,,,,,,,Malcolm Delaney
+,,,,,,,,Kobe Bryant
+,,,,,,,,Alan Anderson
+,,,,,,,,Boris Diaw
+,,,,,,,,Ramon Sessions
+,,,,,,,,DJ Hogg
+,,,,,,,,Leandro Barbosa
+,,,,,,,,Marcus Thornton
+,,,,,,,,Sean Kilpatrick
+,,,,,,,,Brandon Rush
+,,,,,,,,Gerald Henderson
+,,,,,,,,Anthony Morrow
+,,,,,,,,Joe Johnson
+,,,,,,,,Josh Smith
+,,,Jameer Nelson,,,,,Jameer Nelson
+,,,,,,,,C.J. Watson
+,,,,,,,,Kirk Hinrich
+,,,,,,,,Nicolas Brussino
+,,,,,,,,MiKyle McIntosh
+,,,Jason Terry,,,,,Jason Terry
+,,,,,,,,Tony Carr
+,,,,,,,,Brian Roberts
+,,,,,,,,Randy Foye
+,,,,,,,,Tayshaun Prince
+,,,,,,,,Richard Jefferson
+,,,Paul Zipser,,,,,Paul Zipser
+,,,Rodney Purvis,,,,,Rodney Purvis
+,,,,,,,,Pablo Prigioni
+,,,,,,,,Semaj Christon
+,,,,,,,,Marcelo Huertas
+,,,Aaron Brooks,,,,,Aaron Brooks
+,,,,,,,,Paul Pierce
+,,,,,,,,Andrew White III
+,,,,,,,,Mindaugas Kuzminskas
+,,,,,,,,Gary Neal
+,,,Arron Afflalo,,,,,Arron Afflalo
+1928,Jamal Crawford,Jamal Crawford,Jamal Crawford,Jamal Crawford,Jamal Crawford,/players/c/crawfja01.html,,Jamal Crawford
+3842,D.J. Stephens,,,D.J. Stephens,,/players/s/stephdj01.html,,
+,Jamal Crawford,,,,Jamal Crawford,,,
